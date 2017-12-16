@@ -1,10 +1,3 @@
-SECTION VI
-
-BUSINESS PHRASES
-
-
-A
-
 A request for further particulars will not involve any obligation
 
 A telegram is enclosed for your use, as this matter is urgent
@@ -73,20 +66,11 @@ Awaiting your further commands
 
 Awaiting your pleasure
 
-
-B
-
 Believing you will answer this promptly
-
-
-C
 
 Complying with your request
 
 Conditions make it obligatory for us
-
-
-D
 
 Do not hesitate to let us know
 
@@ -94,17 +78,11 @@ Do not overlook this opportunity
 
 Do you realize that you can
 
-
-E
-
 Enclosed please find a memorandum
 
 Enclosed we beg to hand you
 
 Enclosed you will find a circular which will fully explain
-
-
-F
 
 For some years past
 
@@ -115,9 +93,6 @@ For your further information we take pleasure in sending to you
 Frankly, we believe it is extremely worth while for you
 
 From the standpoint of serviceability
-
-
-H
 
 Here is a complete answer to
 
@@ -134,9 +109,6 @@ Hoping to be favored with your order
 How may we serve you further?
 
 However, because of the special circumstances attached
-
-
-I
 
 I am compelled to inform you
 
@@ -191,6 +163,7 @@ I take pleasure in replying to your inquiry concerning
 I trust I shall hear from you soon
 
 I want to express the hope that
+
 our pleasant business relations will continue
 
 I want to interest you
@@ -293,13 +266,7 @@ It will interest you to know
 
 It will receive the same careful attention
 
-
-J
-
 Just mail the enclosed card
-
-
-K
 
 Kindly endorse your reply on the enclosed sheet
 
@@ -309,10 +276,8 @@ Kindly let us know your pleasure concerning
 
 Kindly read the enclosed list
 
-
-L
-
 Let me thank you for the opportunity
+
 to give this matter my personal attention
 
 Let us assure you of our desire to cooperate with you
@@ -325,9 +290,6 @@ Let us thank you again for opening an account with us
 
 Looking forward to the early receipt of some of your orders
 
-
-M
-
 May I ask you to do us a great favor by
 
 May we be favored with a reply
@@ -335,9 +297,6 @@ May we be favored with a reply
 Meantime soliciting your forbearance
 
 Meanwhile permit me to thank you for your kind attention
-
-
-O
 
 On referring to your account we notice
 
@@ -350,9 +309,6 @@ Our services are at your command
 Our stock has been temporarily exhausted
 
 Owing to our inability to collect out-standing debts
-
-
-P
 
 Permit me to add
 
@@ -372,9 +328,6 @@ Promptly on receipt of your telegram
 
 Pursuant to your letter
 
-
-R
-
 Recently we had occasion
 
 Referring to your esteemed favor
@@ -385,17 +338,11 @@ Reluctant as we are to believe
 
 Requesting your kind attention to this matter
 
-
-S
-
 Should you decide to act upon this latter suggestion
 
 So many requests of a similar nature come to us
 
 Soliciting a continuance of your patronage
-
-
-T
 
 Thank you for your expression of confidence
 
@@ -439,9 +386,6 @@ Trusting that we may have the pleasure of serving you
 
 Trusting to receive your best consideration
 
-
-U
-
 Under no circumstances can we entertain such an arrangement
 
 Under separate cover we are mailing to you
@@ -455,9 +399,6 @@ Unless you can give us reasonable assurance
 Upon being advised that these terms are satisfactory
 
 Upon receiving your letter of
-
-
-W
 
 We acknowledge with pleasure the receipt of your order
 
@@ -771,9 +712,6 @@ With the fullest assurance that we are considering
 
 With the greatest esteem and respect
 
-
-Y
-
 You are certainly justified in complaining
 
 You are evidently aware that there is a growing demand
@@ -803,7 +741,3 @@ Your satisfaction will dictate our course
 Your trial order is respectfully solicited
 
 Your usual attention will oblige
-
-
-
-

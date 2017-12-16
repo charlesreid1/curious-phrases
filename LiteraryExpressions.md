@@ -1,10 +1,3 @@
-SECTION VII
-
-LITERARY EXPRESSIONS
-
-
-A
-
 A bitterness crept into her face
 
 A blazing blue sky poured down torrents of light
@@ -36,6 +29,7 @@ A charming air of vigor and vitality
 A childish belief in his own impeccability
 
 A cold, hard, frosty penuriousness was his prevalent characteristic
+
                       [penuriousness = stingy; barren; poverty-stricken]
 
 A compassion perfectly angelic
@@ -55,6 +49,7 @@ A curious and inexplicable uneasiness
 A curious vexation fretted her
 
 A daily avalanche of vituperation
+
                                 [vituperation = harshly abusive language]
 
 A dandified, pretty-boy-looking sort of figure
@@ -152,6 +147,7 @@ A great process of searching and shifting
 A great sickness of heart smote him
 
 A great soul smitten and scourged,
+
 but still invested with the dignity of immortality
 
 A grim and shuddering fascination
@@ -265,6 +261,7 @@ A profound and rather irritating egotist by nature
 A prop for my faint heart
 
 A propitious sky, marbled with pearly white
+
                                [propitious = favorable; kindly; gracious]
 
 A protest wavered on her lip
@@ -408,6 +405,7 @@ A swiftly unrolling panorama of dreams
 A tangle of ugly words
 
 A thousand evanescent memories of happy days
+
                                       [evanescent = vanishing like vapor]
 
 A thousand unutterable fears bore irresistible despotism over her thoughts
@@ -541,6 +539,7 @@ An air of uncanny familiarity
 An air which was distinctly critical
 
 An almost pathetic appearance of ephemeral fragility
+
                                       [ephemeral = markedly short-lived]
 
 An almost riotous prodigality of energy
@@ -564,6 +563,7 @@ An attack of peculiar virulence and malevolence
 An audacious challenge of ridicule
 
 An avidity that bespoke at once the restlessness,   [avidity = eagerness]
+
 and the genius of her mind
 
 An awe crept over me
@@ -601,6 +601,7 @@ An inarticulate echo of his longing
 An increased gentleness of aspect
 
 An incursion of the loud, the vulgar and meretricious
+
                                     [meretricious = plausible but false]
 
 An inexplicable and uselessly cruel caprice of fate
@@ -669,9 +670,6 @@ August and imperial names in the kingdom of thought
 
 Awaiting his summons to the eternal silence
 
-
-B
-
 Bandied about from mouth to mouth
 
 Barricade the road to truth
@@ -729,6 +727,7 @@ Buried hopes rose from their sepulchers
 Buried in the quicksands of ignorance
 
 But none the less peremptorily
+
                              [peremptorily = ending all debate or action]
 
 By a curious irony of fate
@@ -736,9 +735,6 @@ By a curious irony of fate
 By a happy turn of thinking
 
 By virtue of his impassioned curiosity
-
-
-C
 
 Carried the holiday in his eye
 
@@ -782,10 +778,8 @@ Current play of light gossip
 
 Curtains of opaque rain
 
-
-D
-
 Dallying in maudlin regret over the past
+
                                         [maudlin = tearfully sentimental]
 
 Dark with unutterable sorrows
@@ -858,9 +852,6 @@ Drowsiness coiled insidiously about him
 
 Dull black eyes under their precipice of brows
 
-
-E
-
 Earth danced under a heat haze
 
 Easily moved to gaiety and pleasure
@@ -876,11 +867,13 @@ Endeavoring to smile away his chagrin
 Endlessly shifting moods
 
 Endowed with all those faculties
+
 that can make the world a garden of enchantment
 
 Endowed with life and emphasis
 
 Enduring with smiling composure
+
 the near presence of people who are distasteful
 
 Enjoyed with astonishing unscrupulousness
@@ -894,6 +887,7 @@ Evanescent shades of feeling        [evanescent = vanishing like vapor]
 Events took an unexpected sinister turn
 
 Every curve of her features seemed to express
+
 a fine arrogant acrimony and harsh truculence
 
 Everywhere the fragrance of a bountiful earth
@@ -909,9 +903,6 @@ Experience and instinct warred within her
 Exquisite graciousness of manner
 
 Exquisitely stung by the thought
-
-
-F
 
 Familiar and endearing intimacy
 
@@ -969,9 +960,6 @@ Full of dreams and refinements and intense abstractions
 
 Full of majestic tenderness
 
-
-G
-
 Gathering all her scattered impulses into a passionate act of courage
 
 Gaze dimly through a maze of traditions
@@ -979,6 +967,7 @@ Gaze dimly through a maze of traditions
 Generosity pushed to prudence
 
 Gleams of sunlight, bewildered like ourselves,
+
 struggled, surprised, through the mist and disappeared
 
 Glowing with haste and happiness
@@ -996,9 +985,6 @@ Green hills pile themselves upon each other's shoulders
 Grim and sullen after the flush of the morning
 
 Guilty of girlish sentimentality
-
-
-H
 
 Half choked by a rising paroxysm of rage
 
@@ -1123,6 +1109,7 @@ He treads the primrose path of dalliance
 He used an unguarded adjective
 
 He was a tall, dark, saturnine youth, sparing of speech
+
                                         [saturnine = melancholy; sullen]
 
 He was aware of emotion
@@ -1170,6 +1157,7 @@ Her eyes dilated with pain and fear
 Her eyes were full of wondering interest
 
 Her eyes were limpid and her beauty was softened
+
 by an air of indolence and languor         [languor = dreamy, lazy mood]
 
 Her face stiffened anew into a gray obstinacy
@@ -1293,6 +1281,7 @@ His gaze seemed full of unconquerable hopefulness
 His hand supported his chin
 
 His hands were small and prehensible
+
                                   [prehensible = capable of being seized]
 
 His heart asserted itself again, thunderously beating
@@ -1370,12 +1359,10 @@ His youthful zeal was contagious
 Hope was far and dim
 
 How sweet and reasonable the pale shadows of those
+
 who smile from some dim corner of our memories
 
 Humiliating paltriness of revenge
-
-
-I
 
 I capitulated by inadvertence
 
@@ -1436,6 +1423,7 @@ In a spirit of indulgent irony
 In a strain of exaggerated gallantry
 
 In a tone of after-dinner perfunctoriness
+
                                  [perfunctoriness = with little interest]
 
 In a tone of musing surprise
@@ -1552,24 +1540,15 @@ It was the ecstasy and festival of summer
 
 It was torture of the most exquisite kind
 
-
-J
-
 Jealousies and animosities which pricked their sluggish blood to tingling
 
 Joy rioted in his large dark eyes
 
 Judging without waiting to ponder over bulky tomes
 
-
-K
-
 Kind of unscrupulous contempt for gravity
 
 Kiss-provoking lips
-
-
-L
 
 Laden with the poignant scent of the garden honeysuckle
 
@@ -1586,6 +1565,7 @@ Latent vein of whimsical humor
 Lead to the strangest aberrations
 
 Leaping from lambent flame into eager and passionate fire
+
                                       [lambent = effortlessly brilliant]
 
 Leave to the imagination the endless vista of possibilities
@@ -1611,9 +1591,6 @@ Luke-warm assurance of continued love
 Lulled by dreamy musings
 
 Luminous with great thoughts
-
-
-M
 
 Magnanimous indifference to meticulous niceties
 
@@ -1649,9 +1626,6 @@ Mumble only jargon of dotage
 
 My body is too frail for its moods
 
-
-N
-
 Nature seemed to revel in unwonted contrasts       [unwonted = unusual]
 
 New ambitions pressed upon his fancy
@@ -1661,6 +1635,7 @@ New dreams began to take wing in his imagination
 Night after night the skies were wine-blue and bubbling with stars
 
 Night passes lightly in the open world,
+
 with its stars and dews and perfumes
 
 Nights of fathomless blackness
@@ -1670,9 +1645,6 @@ No mark of trick or artifice
 Noble and sublime patience
 
 Nursed by brooding thought
-
-
-O
 
 Obsessed with the modishness of the hour
 
@@ -1689,6 +1661,7 @@ One of the golden twilights which transfigure the world
 Oppressed and disheartened by an all-pervading desolation
 
 Oppressed with a confused sense of cumbrous material
+
                                                   [cumbrous = cumbersome]
 
 Outweighing years of sorrow and bitterness
@@ -1698,9 +1671,6 @@ Over and over the paroxysms of grief and longing submerged her
 Overhung and overspread with ivy
 
 Overshadowed by a vague depression
-
-
-P
 
 Pale and vague desolation
 
@@ -1768,15 +1738,9 @@ Pulling the strings of many enterprises
 
 Purge the soul of nonsense
 
-
-Q
-
 Quickened and enriched by new contacts with life and truth
 
 Quivering with restrained grief
-
-
-R
 
 Radiant with the beautiful glamor of youth
 
@@ -1807,9 +1771,6 @@ Rigid adherence to conventionalities
 Rudely disconcerting in her behavior
 
 Rudely reminded of life's serious issues
-
-
-S
 
 Sacrificed to a futile sort of treadmill
 
@@ -2071,9 +2032,6 @@ Sweet smoke of burning twigs hovered in the autumn day
 
 Swift summer into the autumn flowed
 
-
-T
-
 Taking the larger sweeps in the march of mind
 
 Tears of outraged vanity blurred her vision
@@ -2179,7 +2137,9 @@ The dawn is singing at the door
 The day sang itself into evening
 
 The day was at once redolent and vociferous
+
      [redolent = emitting fragrance; aromatic; suggestive; reminiscent]
+
      [vociferous = conspicuously and offensively loud]
 
 The day was blind with fog
@@ -2227,6 +2187,7 @@ The easy-going indolence of a sedentary life
 The echo of its wrathful roar surged and boomed among the hills
 
 The empurpled hills standing up, solemn and sharp,
+
 out of the green-gold air
 
 The enchanting days of youth
@@ -2368,6 +2329,7 @@ The loud and urgent pageantry of the day
 The low hills on the horizon wore a haze of living blue
 
 The machinations of a relentless mountebank
+
                                       [mountebank = flamboyant charlatan]
 
 The machinations of an unscrupulous enemy
@@ -2375,6 +2337,7 @@ The machinations of an unscrupulous enemy
 The magical lights of the horizon
 
 The majestic solemnity of the moment
+
 yielded to the persuasive warmth of day
 
 The marvelous beauty of her womanhood
@@ -2502,6 +2465,7 @@ The quick pulse of gain
 The radiant serenity of the sky
 
 The radiant stars brooded over the stainless fields,
+
 white with freshly fallen snow
 
 The restlessness of offended vanity
@@ -2631,6 +2595,7 @@ The sun lay golden-soft over the huddled hills
 The sunlight spread at a gallop along the hillside
 
 The sunset was rushing to its height
+
 through every possible phase of violence and splendor
 
 The suspicion of secret malevolence
@@ -2698,6 +2663,7 @@ The white seething surf fell exhausted along the shore
 The whole exquisite night was his
 
 The whole sea of foliage is shaken and broken up
+
 with little momentary shiverings and shadows
 
 The wide horizon forever flames with summer
@@ -2721,6 +2687,7 @@ The youth of the soul
 The zenith turned shell pink
 
 Their ephemeral but enchanting beauty had expired forever
+
                                      [ephemeral = markedly short-lived]
 
 Their eyes met glancingly
@@ -2750,6 +2717,7 @@ There was spendthrift grandeur
 These qualities were raised to the white heat of enthusiasm
 
 They became increasingly turbid and phantasmagorical
+
                                 [phantasmagorical =  fantastic imagery]
 
 They escaped the baffled eye
@@ -2761,6 +2729,7 @@ They were vastly dissimilar
 This exquisite conjunction and balance
 
 This little independent thread of inquiry
+
 ran through the texture of his mind and died away
 
 This shadowy and chilling sentiment unaccountably creeps over me
@@ -2809,9 +2778,6 @@ Turning the world topsy-turvey
 
 Twilight creeps upon the darkening mind
 
-
-U
-
 Unapproachable grandeur and simplicity
 
 Unaware of her bitter taunt
@@ -2840,9 +2806,6 @@ Urbanely plastic and versatile
 
 Uttering grandiose puerilities     [puerilities = childishness, silly]
 
-
-V
-
 Vain allurements of folly and fashion
 
 Variously ramified and delicately minute channels of expression
@@ -2856,6 +2819,7 @@ Veiled by some equivocation
 Vibrant with the surge of human passions
 
 Vicissitudes of wind and weather
+
                            [vicissitudes = sudden or unexpected changes]
 
 Vigor and richness of resource
@@ -2865,9 +2829,6 @@ Visible and palpable pains and penalties
 Voices that charm the ear and echo with a subtle resonance in the soul
 
 Volcanic upheavings of imprisoned passions
-
-
-W
 
 Wantonly and detestably unkind
 
@@ -2917,13 +2878,6 @@ Wrought of an emotion infectious and splendidly dangerous
 
 Wrought out of intense and tragic experience
 
-
-Y
-
 Yielding to a wave of pity
 
 Your mind enthroned in the seventh circle of content
-
-
-
-

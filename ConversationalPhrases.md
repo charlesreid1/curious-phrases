@@ -1,10 +1,3 @@
-SECTION IX
-
-CONVERSATIONAL PHRASES
-
-
-A
-
 A most extraordinary idea!
 
 A thousand hopes for your success
@@ -38,6 +31,7 @@ Are you not complicating the question?
 Are you prepared to go to that length?
 
 Are you still obdurate?
+
            [obdurate = Hardened in wrongdoing; stubbornly impenitent]
 
 As it happens, your conjecture is right
@@ -45,9 +39,6 @@ As it happens, your conjecture is right
 Assuredly I do
 
 At first blush it may seem fantastic
-
-
-B
 
 Banish such thoughts
 
@@ -89,9 +80,6 @@ By a curious chance, I know it very well
 
 By no means desirable, I think
 
-
-C
-
 Can I persuade you?
 
 Can you imagine anything so horrible?
@@ -105,9 +93,6 @@ Certainly, with the greatest pleasure
 Come, where's your sense of humor?
 
 Consult me when you want me--at any time
-
-
-D
 
 Decidedly so
 
@@ -147,9 +132,6 @@ Does it please you so tremendously?
 
 Does it seem incredible?
 
-
-E
-
 Either way is perplexing
 
 Eminently proper, I think
@@ -157,9 +139,6 @@ Eminently proper, I think
 Everyone looks at it differently
 
 Excuse my bluntness
-
-
-F
 
 Fanciful, I should say
 
@@ -175,9 +154,6 @@ Frugal to a degree
 
 Fulsome praise, I call it
 
-
-G
-
 Give me your sympathy and counsel
 
 Glorious to contemplate
@@ -185,9 +161,6 @@ Glorious to contemplate
 Good! that is at least something
 
 Gratifying, I am sure
-
-
-H
 
 Happily there are exceptions to every rule
 
@@ -256,9 +229,6 @@ How well you do it!
 However, I should like to hear your views
 
 Human nature interests me very much indeed
-
-
-I
 
 I admire your foresight
 
@@ -1202,17 +1172,11 @@ It would seem to be a wise decision
 
 It would take too long to formulate my thought
 
-
-J
-
 Join us, please, when you have time
 
 Just trust to the inspiration of the moment
 
 Justify it if you can
-
-
-L
 
 Let me persuade you
 
@@ -1223,9 +1187,6 @@ Let me speak frankly
 Let us grant that for the sake of the argument
 
 Let us take a concrete instance
-
-
-M
 
 Many thanks--how kind and good you are!
 
@@ -1255,9 +1216,6 @@ My point of view is different, but I shall not insist upon it
 
 My views are altered in many respects
 
-
-N
-
 No, I am speaking seriously
 
 No, I don't understand it
@@ -1271,9 +1229,6 @@ Nothing could be more delightful
 Now is it very plain to you?
 
 Now you are flippant
-
-
-O
 
 Obviously the matter is settled
 
@@ -1317,9 +1272,6 @@ One must be indulgent under the circumstances
 
 One thing I beg of you
 
-
-P
-
 Pardon me, but I don't think so
 
 Pardon me, I meant something different
@@ -1352,9 +1304,6 @@ Precisely, that is just what I meant
 
 Put in that way it certainly sounds very well
 
-
-Q
-
 Question me, if you wish
 
 Quibbling, I call it
@@ -1362,9 +1311,6 @@ Quibbling, I call it
 Quite so
 
 Quite the wisest thing you can do
-
-
-R
 
 Rather loquacious, I think        [loquacious = very talkative]
 
@@ -1383,9 +1329,6 @@ Relatively speaking
 Reluctantly I admit it
 
 Reverting to another matter
-
-
-S
 
 Shall we have a compact?
 
@@ -1426,9 +1369,6 @@ Surely we can speak frankly
 Surely you sound too harsh a note
 
 Surely you would not countenance that
-
-
-T
 
 Tell me in what way you want me to help you
 
@@ -1622,9 +1562,6 @@ To speak frankly, I do not like it
 
 True, I forgot!
 
-
-U
-
 Undeniably true
 
 Unfortunately I must decline the proposal
@@ -1635,9 +1572,6 @@ Unquestionably superior
 
 Unwholesome influence, I would say
 
-
-V
-
 Very good, I'll do so
 
 Very well, I will consent
@@ -1647,9 +1581,6 @@ Vivacity is her greatest charm
 Virtually accomplished, I believe
 
 Vouch for its truth
-
-
-W
 
 We are all more or less susceptible
 
@@ -1758,9 +1689,6 @@ Will you permit me a brief explanation?
 Would you apply that to everyone?
 
 Would you mind telling me your opinion?
-
-
-Y
 
 Yes and no
 
@@ -1949,7 +1877,3 @@ Your opinion will be invaluable to me
 Your request is granted before it is made
 
 Your statement is somewhat startling
-
-
-
-

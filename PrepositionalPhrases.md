@@ -1,12 +1,4 @@
-SECTION V
-
-PREPOSITIONAL PHRASES
-
-
 Preposition "of"
-
-
-A
 
 abandon of spontaneity
 
@@ -87,9 +79,6 @@ authority of manner
 avalanche of scorn
 
 avenues of dissemination
-
-
-B
 
 babel of tongues
 
@@ -178,9 +167,6 @@ burden of proof
 burst of confidence
 
 business of life
-
-
-C
 
 cadences of delirium
 
@@ -286,9 +272,6 @@ curl of contempt
 
 current of thought
 
-
-D
-
 darkness of calamity
 
 dash of eccentricity
@@ -375,9 +358,6 @@ duplicities of might
 
 dust of defeat
 
-
-E
-
 earnestness of enthusiasm
 
 easy of access
@@ -447,9 +427,6 @@ extravagance of eulogy
 extremity of fortune
 
 exuberance of wit
-
-
-F
 
 fabric of fact
 
@@ -557,9 +534,6 @@ fury of resentment
 
 futility of pride
 
-
-G
-
 gaiety of spirit
 
 gales of laughter
@@ -624,9 +598,6 @@ gulf of incongruity
 
 gust of laughter
 
-
-H
-
 harbor of refuge
 
 harvest of regrets
@@ -654,9 +625,6 @@ hue of divinity
 hum of pleasure
 
 hush of suspense
-
-
-I
 
 ideals of excellence
 
@@ -730,9 +698,6 @@ invasion of thought
 
 irony of life
 
-
-J
-
 jangle of sounds
 
 jargon of philosophy
@@ -740,9 +705,6 @@ jargon of philosophy
 jumble of facts
 
 justness of decision
-
-
-K
 
 keenness of intellect
 
@@ -755,9 +717,6 @@ keynote of success
 king of finance
 
 kinship of humanity
-
-
-L
 
 lack of restraint
 
@@ -792,9 +751,6 @@ lust of conquest
 lustihood of youth
 
 luxuriance of expression
-
-
-M
 
 magnanimity of mind
 
@@ -850,9 +806,6 @@ myriads of stars
 
 mysteries of taste
 
-
-N
-
 narrowness of range
 
 nebulae of romance
@@ -868,9 +821,6 @@ nightingale of affection
 nobility of purpose
 
 note of triumph
-
-
-O
 
 obduracy of mind         [obduracy = intractable; hardened]
 
@@ -908,9 +858,6 @@ outposts of morality
 
 overflow of vitality
 
-
-P
-
 page of desolation
 
 pageant of life
@@ -942,6 +889,7 @@ perversity of chance
 pests of society
 
 petrifaction of egoism
+
                      [petrifaction = fossilization; paralyzed with fear]
 
 phantom of delight
@@ -1016,9 +964,6 @@ pursuit of knowledge
 
 puzzledom of life
 
-
-Q
-
 quagmire of distrust
 
 qualities of leadership
@@ -1030,9 +975,6 @@ question of honor
 quickness of apprehension
 
 quivering of pain
-
-
-R
 
 radiance of morning
 
@@ -1103,9 +1045,6 @@ rush of agony
 rust of neglect
 
 ruts of conventionality
-
-
-S
 
 sadness of soul
 
@@ -1243,9 +1182,6 @@ symbol of admiration
 
 system of aspersion
 
-
-T
-
 taint of megalomania
 
 tardiness of speech
@@ -1324,15 +1260,9 @@ twilight of elderliness
 
 twinge of envy
 
-
-U
-
 unity of purpose
 
 universality of experience
-
-
-V
 
 vagrancy of thought
 
@@ -1365,9 +1295,6 @@ void of authority
 volume of trade
 
 vow of allegiance
-
-
-W
 
 warmth of temperament
 
@@ -1403,24 +1330,13 @@ world of fantasy
 
 worthy of mention
 
-
-y
-
 yoke of convention
-
-
-Z
 
 zest of enjoyment
 
 zone of delusion
 
-
-
 Preposition "by"
-
-
-A
 
 affected by externals
 
@@ -1436,9 +1352,6 @@ attained by effort
 
 avert by prayer
 
-
-B
-
 ballasted by brains
 
 beset by difficulties
@@ -1446,9 +1359,6 @@ beset by difficulties
 bound by opinion
 
 branded by defeat
-
-
-C
 
 characterized by discretion
 
@@ -1472,9 +1382,6 @@ convinced by argument
 
 convulsed by divisions
 
-
-D
-
 darkened by shadows
 
 dazzled by fame
@@ -1486,9 +1393,6 @@ devoured by curiosity
 disgusted by servility
 
 driven by remorse
-
-
-E
 
 embarrassed by timidity
 
@@ -1506,9 +1410,6 @@ established by convention
 
 evoked by shame
 
-
-F
-
 fascinated, by mystery
 
 favored by fortune
@@ -1521,22 +1422,13 @@ forbid by authority
 
 fortified by faith
 
-
-G
-
 governed by precedent
 
 guided by instinct
 
-
-H
-
 haunted by visions
 
 hushed by denial
-
-
-I
 
 impelled by duty
 
@@ -1548,32 +1440,17 @@ influenced by caution
 
 inspired by love
 
-
-L
-
 learned by rote
-
-
-M
 
 marked by acuteness
 
 measured by years
 
-
-N
-
 narrowed by custom
-
-
-O
 
 occasioned by irritation
 
 oppressed by destiny
-
-
-p
 
 parched by disuse
 
@@ -1589,9 +1466,6 @@ prompted by coquetry
 
 purged by sorrow
 
-
-R
-
 racked by suffering
 
 refuted by reason
@@ -1601,9 +1475,6 @@ repelled by censure
 restrained by violence
 
 rising by industry
-
-
-S
 
 sanctioned by experience
 
@@ -1617,9 +1488,6 @@ supplanted by others
 
 supported by evidence
 
-
-T
-
 thwarted by fortune
 
 tempered by charity
@@ -1627,9 +1495,6 @@ tempered by charity
 tormented by jealousy
 
 tortured by doubt
-
-
-U
 
 unadorned by artifice
 
@@ -1643,13 +1508,7 @@ unfettered by fear
 
 urged by curiosity
 
-
-V
-
 vitalized by thought
-
-
-W
 
 won by aggression
 
@@ -1657,12 +1516,7 @@ worn by time
 
 wrenched by emotions
 
-
-
 Preposition "in"
-
-
-A
 
 absorbed in meditation
 
@@ -1670,17 +1524,11 @@ affable in manner         [affable = gentle and gracious]
 
 atone in measure
 
-
-B
-
 barren in intellect
 
 basking in sunshine
 
 buried in solitude
-
-
-C
 
 call in question
 
@@ -1696,9 +1544,6 @@ contemplative in aspect
 
 cumbrous in style         [cumbrous = cumbersome; difficult to use]
 
-
-D
-
 deficient in insight
 
 delight in learning
@@ -1713,17 +1558,11 @@ diminish in respect
 
 dwarfed in numbers
 
-
-E
-
 end in smoke
 
 enumerate in detail
 
 experienced in duplicity
-
-
-F
 
 feeble in influence
 
@@ -1733,9 +1572,6 @@ flourish in luxuriance
 
 founded in truth
 
-
-G
-
 gaze in astonishment
 
 go in pursuit
@@ -1744,13 +1580,7 @@ graceful in proportion
 
 grievously in error
 
-
-H
-
 hold in bondage
-
-
-I
 
 immersed in thought
 
@@ -1766,13 +1596,7 @@ instance in point
 
 involved in obscurity
 
-
-K
-
 kept in abeyance
-
-
-L
 
 landmarks in memory
 
@@ -1792,27 +1616,15 @@ lower in estimation
 
 luxuriant in fancy
 
-
-M
-
 monstrous in dulness
 
 mysterious in origin
-
-
-N
 
 noble in amplitude
 
 nursed in luxury
 
-
-O
-
 organized in thought
-
-
-P
 
 petulant in expression
 
@@ -1832,13 +1644,7 @@ protest in vain
 
 pursued in leisure
 
-
-Q
-
 quick in suggestion
-
-
-R
 
 ready in resource
 
@@ -1851,9 +1657,6 @@ revel in danger
 rich in variety
 
 rooted in prejudice
-
-
-S
 
 schooled in self-restraint
 
@@ -1875,13 +1678,7 @@ striking in character
 
 stunted in growth
 
-
-T
-
 tender in sentiment
-
-
-U
 
 unique in literature
 
@@ -1889,13 +1686,7 @@ unity in diversity
 
 unprecedented in kind
 
-
-V
-
 versed in knowledge
-
-
-W
 
 wallow in idolatry
 
@@ -1905,17 +1696,9 @@ waver in purpose
 
 weak in conception
 
-
-
 Preposition "into"
 
-
-A
-
 abashed into silence
-
-
-B
 
 beguile into reading
 
@@ -1931,9 +1714,6 @@ burn into memory
 
 burst into view
 
-
-C
-
 call into question
 
 carry into conflict
@@ -1947,9 +1727,6 @@ cringe into favor
 crumbled into dust
 
 crystallized into action
-
-
-D
 
 dash into fragments
 
@@ -1973,9 +1750,6 @@ driven into servitude
 
 dulled into acquiescence
 
-
-E
-
 electrify into activity
 
 elevated into importance
@@ -1985,9 +1759,6 @@ enquire into precedents
 enter into controversy
 
 expand into weakness
-
-
-F
 
 fade into insignificance
 
@@ -2005,22 +1776,13 @@ frozen into form
 
 fuse into unity
 
-
-G
-
 galvanize into life
 
 go into raptures
 
 goaded into action
 
-
-H
-
 hushed into silence
-
-
-I
 
 incursions into controversy
 
@@ -2028,13 +1790,7 @@ insight into truth
 
 inveigled into dispute     [inveigled = convince by coaxing, flattery]
 
-
-K
-
 kindle into action
-
-
-L
 
 lapse into pedantry        [pedantries = attention to detail or rules]
 
@@ -2048,15 +1804,9 @@ leap into currency
 
 lulled into indifference
 
-
-M
-
 melt into space
 
 merge into character
-
-
-p
 
 pass into oblivion
 
@@ -2064,13 +1814,7 @@ plunge into despair
 
 pour into print
 
-
-Q
-
 quicken into life
-
-
-R
 
 relapse into savagery
 
@@ -2083,9 +1827,6 @@ retreat into silence
 ripened into love
 
 rush into print
-
-
-S
 
 shocked into attention
 
@@ -2101,9 +1842,6 @@ summoned into being
 
 swollen into torrents
 
-
-T
-
 take into account
 
 thrown into disorder
@@ -2112,18 +1850,9 @@ transform into beauty
 
 translated into fact
 
-
-U
-
 usher into society
 
-
-V
-
 vanish into mystery
-
-
-W
 
 wander into digression
 
@@ -2131,12 +1860,7 @@ wheedled into acquiescence
 
 withdraw into solitude
 
-
-
 Preposition "to"
-
-
-A
 
 addicted to flattery
 
@@ -2158,15 +1882,9 @@ attempt to suppress
 
 aversion to publicity
 
-
-B
-
 blind to demonstration
 
 brought to repentance
-
-
-C
 
 claim to perpetuity
 
@@ -2186,9 +1904,6 @@ constrained to speak
 
 contribution to knowledge
 
-
-D
-
 deaf to entreaty
 
 dedicated to friendship
@@ -2205,9 +1920,6 @@ driven to despair
 
 dwarf to unimportance
 
-
-E
-
 empowered to act
 
 endeared to all
@@ -2216,29 +1928,17 @@ excite to pity
 
 exposed to derision
 
-
-F
-
 fly to platitudes
 
 foredoomed to failure
-
-
-G
 
 given to extravagance
 
 ground to atoms
 
-
-H
-
 harassed to death
 
 hostile to progress
-
-
-I
 
 impervious to suggestion
 
@@ -2262,17 +1962,11 @@ inured to fatigue         [inured = habituate to something undesirable]
 
 invocation to sleep
 
-
-L
-
 laugh to scorn
 
 left to conjecture
 
 lost to remembrance
-
-
-O
 
 obedience to conscience
 
@@ -2283,9 +1977,6 @@ offensive to modesty
 open to reason
 
 opposed to innovation
-
-
-p
 
 pander to prejudice
 
@@ -2298,9 +1989,6 @@ propose to undertake
 provoke to laughter
 
 put to confusion
-
-
-R
 
 recourse to falsehood
 
@@ -2317,9 +2005,6 @@ requisite to success
 resort to violence
 
 run to seed
-
-
-S
 
 seek to overawe
 
@@ -2339,43 +2024,23 @@ superior to circumstances
 
 susceptible to argument
 
-
-T
-
 temptation to doubt
 
 tend to frustrate
 
 trust to chance
 
-
-U
-
 utilize to advantage
-
-
-V
 
 venture to say
 
 vital to success
 
-
-W
-
 wedded to antiquity
-
-
-Y
 
 yield to reason
 
-
-
 Preposition "with"
-
-
-A
 
 abounding with plenty
 
@@ -2397,9 +2062,6 @@ ascertain with exactness
 
 attended with danger
 
-
-B
-
 beam with self-approval
 
 behave with servility
@@ -2415,9 +2077,6 @@ branded with cowardice
 bubbling with laughter
 
 burn with indignation
-
-
-C
 
 cling with tenacity
 
@@ -2435,9 +2094,6 @@ covered with ignominy
 
 crush with sorrow
 
-
-D
-
 deny with emphasis
 
 depressed with fear
@@ -2445,9 +2101,6 @@ depressed with fear
 dispense with formality
 
 distort with passion
-
-
-E
 
 echo with merriment
 
@@ -2459,9 +2112,6 @@ endure with fortitude
 
 examine with curiosity
 
-
-F
-
 face with indifference
 
 flushed with pride
@@ -2470,13 +2120,7 @@ fraught with peril
 
 furious with indignation
 
-
-G
-
 glowing with delight
-
-
-I
 
 imbued with courage
 
@@ -2490,27 +2134,15 @@ inspired with patriotism
 
 intoxicated with joy
 
-
-K
-
 kindle with enthusiasm
 
-
-L
-
 laugh with glee
-
-
-M
 
 meet with rebuke
 
 mingled with curiosity
 
 move with alacrity
-
-
-O
 
 oppressed with hardship
 
@@ -2520,9 +2152,6 @@ overflowing with love
 
 overhung with gloom
 
-
-P
-
 performed with regularity
 
 pervaded with grandeur
@@ -2531,15 +2160,9 @@ proceed with alertness
 
 punish with severity
 
-
-Q
-
 quicken with pride
 
 quiver with anxiety
-
-
-R
 
 radiant with victory
 
@@ -2549,9 +2172,6 @@ relate with zest
 
 repel with indignation
 
-
-S
-
 saddle with responsibility
 
 scream with terror
@@ -2559,6 +2179,7 @@ scream with terror
 scrutinize with care
 
 seething with sedition
+
                       [sedition = conduct or language inciting rebellion]
 
 sick with dread
@@ -2568,9 +2189,6 @@ sob with anguish
 squirm with delight
 
 suffuse with spirituality
-
-
-T
 
 tainted with fraud
 
@@ -2590,27 +2208,14 @@ treat with contempt
 
 tremble with fear
 
-
-U
-
 unmixed with emotion
 
 utter with sarcasm
-
-
-V
 
 vibrant with feeling
 
 view with awe
 
-
-W
-
 wield with power
 
 work with zeal
-
-
-
-

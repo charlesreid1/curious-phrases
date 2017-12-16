@@ -1,10 +1,3 @@
-SECTION IV
-
-IMPRESSIVE PHRASES
-
-
-A
-
 able, skilful, thorough, and genuine
 
 absolute, complete, unqualified, and final
@@ -44,6 +37,7 @@ anxiety, caution, watchfulness, and solicitude
 apparent, ostensible, plausible, and specious
 
 appropriate, use, arrogate, and usurp
+
                      [arrogate = claim without right; appropriate]
 
 approval, enthusiasm, sympathy, and applause
@@ -51,6 +45,7 @@ approval, enthusiasm, sympathy, and applause
 aptitude, capacity, efficiency, and power
 
 arbitrary, dictatorial, domineering, and imperious
+
                      [imperious = arrogantly domineering or overbearing]
 
 architecture, sculpture, painting, and poetry
@@ -70,11 +65,13 @@ artificial, soulless, hectic, and unreal
 assemble, amass, accumulate, and acquire
 
 assiduity, tenderness, industry, and vigilance
+
                                      [assiduity = persistent application]
 
 assurance, persuasion, fidelity, and loyalty
 
 attention, effort, diligence, and assiduity
+
                                      [assiduity = persistent application]
 
 august, magnanimous, important, and distinguished
@@ -82,12 +79,10 @@ august, magnanimous, important, and distinguished
 authoritative, independent, arbitrary, and supreme
 
 avaricious, grasping, miserly, and parsimonious
+
                                      [parsimonious = excessively frugal]
 
 aversion, dislike, hatred, and repugnance
-
-
-B
 
 bad, vicious, unwholesome, and distressing
 
@@ -119,12 +114,10 @@ broaden, enlarge, extend, and augment
 
 business, profession, occupation, and vocation
 
-
-C
-
 candid, sincere, familiar, and ingenuous
 
 captious, petulant, peevish, and splenetic
+
                                    [captious = point out trivial faults]
 
 cautious, discreet, considerate, and provident
@@ -164,6 +157,7 @@ cogitate, contemplate, meditate, and ponder
 cold, frigid, unfeeling, and stoical
 
 commanding, authoritative, imperative, and peremptory
+
                                [peremptory = ending all debate or action]
 
 compassion, goodwill, admiration, and enthusiasm
@@ -185,9 +179,6 @@ cowardly, timid, shrinking, and timorous
 crazy, absurd, nonsensical, and preposterous
 
 crude, rough, jagged, and pitiless
-
-
-D
 
 daring, cordial, discerning, and optimistic
 
@@ -226,6 +217,7 @@ despicable, abject, servile, and worthless
 destructive, detrimental, deleterious, and subversive
 
 desultory, discursive, loose, and unmethodical
+
                                    [desultory = disconnected: haphazard]
 
 detestable, abominable, horrible, and hideous
@@ -239,6 +231,7 @@ difficult, arduous, intricate, and perplexing
 diffuse, discursive, rambling, and wordy
 
 diligence, attention, industry, and assiduity
+
                                    [assiduity = persistent application]
 
 disagreement, discrepancy, difference, and divergence
@@ -273,9 +266,6 @@ dubious, equivocal, fluctuating, and uncertain
 
 dull, heavy, painstaking, and conscientious
 
-
-E
-
 earth, air, stars, and sea
 
 efficient, forcible, adequate, and potent
@@ -301,6 +291,7 @@ equitable, reasonable, just, and honest
 equivocal, uncertain, cloudy, and ambiguous
 
 eradicate, extirpate, exterminate, and annihilate
+
                                        [extirpate = pull up by the roots]
 
 erroneous, faulty, inaccurate, and inexact
@@ -325,9 +316,6 @@ exhaustive, thorough, radical, and complete
 
 expend, dissipate, waste, and squander
 
-
-F
-
 facile, showy, cheap, and superficial
 
 faithful, truthful, loyal, and trustworthy
@@ -339,6 +327,7 @@ fanatic, enthusiast, visionary, and zealot
 fanciful, unreal, fantastic, and grotesque
 
 fancy, humor, vagary, and caprice
+
                       [vagary = extravagant or erratic notion or action]
 
 fashion, practise, habit, and usage
@@ -399,9 +388,6 @@ fully, completely, abundantly, and perfectly
 
 furious, impetuous, boisterous, and vehement
 
-
-G
-
 gaiety, merriment, joy, and hilarity
 
 gallant, ardent, fearless, and self-sacrificing
@@ -446,9 +432,6 @@ greed, avarice, covetousness, and cupidity
 
 gross, academic, vulgar, and indiscriminate
 
-
-H
-
 habit, custom, method, and fashion
 
 handsome, exquisite, brilliant, and accomplished
@@ -460,6 +443,7 @@ harmony, order, sublimity, and beauty
 harsh, discordant, disagreeable, and ungracious
 
 hasty, superficial, impatient, and desultory
+
                                   [desultory = disconnected: haphazard]
 
 healed, soothed, consoled, and assuaged
@@ -488,9 +472,6 @@ humane, gentle, kind, and generous
 
 humble, simple, submissive, and unostentatious
 
-
-I
-
 idea, imagination, conception, and ideal
 
 idleness, recreation, repose, and rest
@@ -506,6 +487,7 @@ impatience, indolence, wastefulness, and inconclusiveness
 impel, stimulate, animate, and inspirit
 
 imperious, wayward, empirical, and impatient
+
                      [imperious = arrogantly domineering or overbearing]
 
 improvident, incautious, prodigal, and thriftless
@@ -550,9 +532,6 @@ irregular, uncertain, devious, and unsystematic
 
 irritable, choleric, petulant, and susceptible
 
-
-J
-
 jangle, wrangle, squabble, and quarrel
 
 jealousy, suspicion, envy, and watchfulness
@@ -560,14 +539,12 @@ jealousy, suspicion, envy, and watchfulness
 joyful, lively, happy, and hilarious
 
 judgment, discrimination, penetration, and sagacity
+
                                             [sagacity = farsighted; wise]
 
 just, impartial, equitable, and unbiased
 
 juvenile, childish, trifling, and puerile  [puerile = immature; childish]
-
-
-K
 
 keen, intelligent, penetrating, and severe
 
@@ -578,9 +555,6 @@ kind, sympathetic, ready, and appreciative
 kingly, noble, imperial, and august
 
 knowledge, learning, enlightenment, and understanding
-
-
-L
 
 lapses, makeshifts, delays, and irregularities
 
@@ -601,10 +575,8 @@ loutish, prankish, selfish, and cunning
 love, depth, loyalty, and faithfulness
 
 lucidity, impressiveness, incisiveness, and pungency
+
                                                 [pungency = to the point]
-
-
-M
 
 malice, anger, uncharitableness, and indignation
 
@@ -621,6 +593,7 @@ mastery, proficiency, dexterity, and superiority
 matchless, unrivaled, inimitable, and incomparable
 
 maxim, proverb, truism, and apothegm
+
                             [apothegm = terse, witty, instructive saying]
 
 medley, mixture, jumble, and hodge-podge
@@ -645,9 +618,6 @@ motive, impulse, incentive, and intimation
 
 mysterious, dark, secret, and enigmatical
 
-
-N
-
 narrow, limited, selfish, and bigoted
 
 necessary, expedient, indispensable, and unavoidable
@@ -659,6 +629,7 @@ neglect, overlook, disregard, and contemn   [contemn = despise]
 nice, finical, effeminate, and silly        [finical = Finicky]
 
 niggardly, close, miserly, and parsimonious
+
                                       [parsimonious = Excessively frugal]
 
 noble, pure, exalted, and worthy
@@ -668,9 +639,6 @@ nonsense, trash, twaddle, and rubbish
 novel, recent, rare, and unusual
 
 noxious, unwholesome, mischievous, and destructive
-
-
-O
 
 obdurate, unfeeling, callous, and obstinate
 
@@ -687,14 +655,12 @@ obsequious, cringing, fawning, and servile     [obsequious = fawning.]
 observations, sentiments, ideas, and theories
 
 obstinacy, pertinacity, stubbornness, and inflexibility
+
                                             [pertinacity = persistent]
 
 offensive, disagreeable, distasteful, and obnoxious
 
 officious, impertinent, insolent, and meddlesome
-
-
-P
 
 particular, precise, formal, and punctilious    [punctilious = scrupulous]
 
@@ -768,10 +734,8 @@ purified, exalted, fortified, and illumined
 
 purpose, meaning, scope, and tendency
 
-
-Q
-
 quack, imposture, charlatan, and mountebank
+
                                       [mountebank = flamboyant charlatan]
 
 qualified, powerful, vigorous, and effective
@@ -785,9 +749,6 @@ queries, echoes, reactions, and after-thoughts
 quick, impetuous, sweeping, and expeditious
 
 quiet, peaceful, sane, and normal
-
-
-R
 
 racy, smart, spicy, and pungent
 
@@ -815,14 +776,12 @@ rough, rude, gruff, and surly
 
 rude, curt, insolent, and unpleasant
 
-
-S
-
 sad, despondent, melancholy, and depressed
 
 sane, sober, sound, and rational
 
 scandalize, vilify, traduce, and offend
+
                              [traduce = humiliate with false statements]
 
 scanty, pinched, slender, and insufficient
@@ -891,9 +850,6 @@ suspicious, cynical, crafty, and timid
 
 symmetry, proportion, harmony, and regularity
 
-
-T
-
 tact, courtesy, adroitness, and skill
 
 talents, opportunities, influence, and power
@@ -905,6 +861,7 @@ tastes, appetites, passions, and desires
 tease, tantalize, worry, and provoke
 
 tenacious, stubborn, pertinacious, and obstinate
+
                                   [pertinacious = perversely persistent]
 
 tendency, drift, scope, and disposition
@@ -912,6 +869,7 @@ tendency, drift, scope, and disposition
 tests, trials, temptations, and toils
 
 theatrical, ceremonious, meretricious, and ostentatious
+
                                [meretricious =  plausible but insincere]
 
 theory, assumption, speculation, and conjecture
@@ -936,14 +894,12 @@ true, upright, real, and authentic
 
 tumultuous, riotous, disorderly, and turbulent
 
-
-U
-
 ugly, evil, hateful, and base
 
 uncertain, questionable, erroneous, and mistaken
 
 unctuous, shrill, brisk, and demonstrative
+
                                      [unctuous = exaggerated, insincere]
 
 unhappy, unfortunate, distressed, and disastrous
@@ -966,9 +922,6 @@ urgent, important, immediate, and imperative
 
 usage, custom, habit, and practise
 
-
-V
-
 vain, useless, unproductive, and unavailing
 
 vanities, envies, devices, and jealousies
@@ -988,9 +941,6 @@ virtuous, upright, honest, and moral
 visionary, dreamy, pensive, and sensitive
 
 vulgar, heavy, narrow, and obtuse
-
-
-W
 
 want, lack, poverty, and paucity
 
@@ -1017,7 +967,3 @@ wonderful, interesting, active, and delightful
 works, sorrows, visions, and experiences
 
 worry, annoyance, awkwardness, and difficulty
-
-
-
-

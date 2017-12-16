@@ -1,10 +1,3 @@
-SECTION I
-
-USEFUL PHRASES
-
-
-A
-
 abandoned hope
 
 abated pride
@@ -204,6 +197,7 @@ ambitious project
 ambling pedestrian
 
 ambrosial essence
+
          [ambrosial = fragrant or delicious; worthy of the gods; divine.]
 
 amiable solicitude
@@ -297,6 +291,7 @@ arbitrarily imposed
 arch conspirator
 
 arched embrasure
+
               [embrasure = flared opening for a gun in a wall or parapet]
 
 archeological pursuits
@@ -422,9 +417,6 @@ awkward dilemma
 axiomatic truth
 
 azure sky
-
-
-B
 
 babbling gossip
 
@@ -637,6 +629,7 @@ brutal composure
 bubbling frivolities
 
 bucolic cudgeling     [bucolic = about shepherds or flocks; pastoral]
+
                       [cudgeling = beat with a short heavy stick]
 
 budding joy
@@ -658,9 +651,6 @@ busily engrossed
 business acumen
 
 bygone period
-
-
-C
 
 cabalistic phrase        [cabalistic = secret or hidden meaning]
 
@@ -695,6 +685,7 @@ caressing grasp
 carping critic
 
 castellated towers
+
               [castellated = with turrets and battlements like a castle]
 
 casual violation
@@ -1014,6 +1005,7 @@ contrasted types
 controversial disputant
 
 contumelious epithet
+
             [contumelious = Rudeness or contempt arising from arrogance]
 
 convenient footing
@@ -1131,6 +1123,7 @@ crystalline sky
 crystallized conclusions
 
 culinary myrmidons
+
                 [myrmidon = one who carries out orders without question]
 
 culminating fascination
@@ -1169,12 +1162,10 @@ cycloramic sweep
 
 cynical disregard
 
-
-D
-
 damaging admission
 
 damask cheek
+
         [damask = rich patterned fabric; wavy pattern on Damascus steel]
 
 dampened ardor
@@ -1587,9 +1578,6 @@ dynamic energy
 
 dynastic insolence
 
-
-E
-
 eager animosity
 
 early servitude
@@ -1601,6 +1589,7 @@ earthly splendor
 easy garrulity          [garrulity = excessive talkativeness]
 
 eccentric casuists
+
           [casuistry = excessively subtle reasoning intended to mislead]
 
 ecclesiastical rule
@@ -1810,6 +1799,7 @@ everyday reality
 evident authority
 
 evil necromancy           [necromancy = communicating with the dead to
+
                            predict the future; black magic; sorcery]
 
 eviscerating shrieks
@@ -1875,6 +1865,7 @@ explosive violence
 expressionless visage
 
 expressive lineaments
+
                [lineaments = distinctive shape, especially of the face]
 
 exquisite tact
@@ -1898,9 +1889,6 @@ extremely picturesque
 exuberant mirth
 
 exultant condition
-
-
-F
 
 facetious mood
 
@@ -2021,6 +2009,7 @@ flaccid faith
 flagging popularity
 
 flagitious attack
+
        [flagitious = extremely brutal or cruel crimes; vicious; infamous]
 
 flagrant boasting
@@ -2187,9 +2176,6 @@ fussy enthusiasms
 
 futile babble
 
-
-G
-
 gabbling reminiscences   [gabbling = speak rapidly or incoherently; jabber]
 
 galling thought
@@ -2261,6 +2247,7 @@ glaring impropriety
 glassy smoothness
 
 gleaming escutcheon
+
               [escutcheon = shield-shaped emblem bearing a coat of arms]
 
 gleeful spirit
@@ -2358,9 +2345,6 @@ gusty clamor
 guttural incoherence
 
 gymnastic agility
-
-
-H
 
 habitual deference
 
@@ -2550,9 +2534,6 @@ hypocritical pretense
 
 hysterical agitation
 
-
-I
-
 iconoclastic attitude
 
 icy smile
@@ -2682,6 +2663,7 @@ important epoch
 importunate questions     [importunate = insistent request]
 
 imposing mien
+
          [mien = manner revealing a state of mind; appearance or aspect]
 
 impossible contingency
@@ -3130,9 +3112,6 @@ irritable impatience
 
 isolated splendor
 
-
-J
-
 jaded sensibility
 
 jagged outline
@@ -3171,9 +3150,6 @@ just rebuke
 
 juvenile attempt
 
-
-K
-
 kaleidoscopic pictures
 
 keen insight
@@ -3191,9 +3167,6 @@ knavish conduct
 knightly achievement
 
 known disingenuousness   [ingenuous = frank; candid.]
-
-
-L
 
 labored levity
 
@@ -3350,9 +3323,6 @@ lustrous surface
 luxuriant richness
 
 lying equivocations
-
-
-M
 
 maddening monotony
 
@@ -3644,9 +3614,6 @@ mystic meaning
 
 mythical kingdom
 
-
-N
-
 naive manner
 
 naked eye
@@ -3678,6 +3645,7 @@ nebulous uncertainty
 necessary adjuncts
 
 necromantic power       [necromancy = communicating with the dead to
+
                          predict the future. Black magic; sorcery.]
 
 needless depression
@@ -3751,9 +3719,6 @@ numbed stillness
 numberless defeats
 
 numerical majority
-
-
-O
 
 obdurate courage        [obdurate = hardened in wrongdoing]
 
@@ -3886,9 +3851,6 @@ overweening sense     [overweening = presumptuously arrogant; overbearing]
 overwhelming solicitude
 
 overworked drudge
-
-
-P
 
 pacific disposition
 
@@ -4157,6 +4119,7 @@ prepossessing appearance
 preposterous assertion
 
 prescient reflection
+
    [prescient = perceiving the significance of events before they occur]
 
 prescribed conditions
@@ -4170,6 +4133,7 @@ pretended surprise
 pretentious dignity
 
 preternatural sagacity      [preternatural = extraordinary]
+
                             [sagacity = farsighted; wise]
 
 pretty plaintiveness
@@ -4314,9 +4278,6 @@ pusillanimous desertion   [pusillanimous = cowardly]
 
 pyrotechnic outburst
 
-
-Q
-
 quailing culprit
 
 quaint peculiarities
@@ -4350,9 +4311,6 @@ quixotic impulse
 quizzical expression
 
 quondam foe               [quondam = former]
-
-
-R
 
 racial prejudice
 
@@ -4590,9 +4548,6 @@ rustling forest
 
 ruthless commercialism
 
-
-S
-
 sacerdotal preeminence     [sacerdotal = priestly]
 
 sacred tenderness
@@ -4624,6 +4579,7 @@ sanguine expectations     [sanguine = cheerfully confident; optimistic]
 sarcastic incredulity
 
 sardonic taciturnity      [sardonic  = cynically mocking]
+
                           [taciturnity  = habitually untalkative]
 
 satirical critic
@@ -4897,6 +4853,7 @@ somewhat scandalized
 somnolent state
 
 sonorous simplicity
+
       [sonorous = full, deep, rich sound; impressive in style of speech]
 
 sophistical argument
@@ -4926,6 +4883,7 @@ specialized skill
 specific characteristics
 
 specious artifice
+
        [specious = having the ring plausibility but actually fallacious]
 
 spectral fears
@@ -4959,6 +4917,7 @@ sprightly talk
 spurious enthusiasm
 
 squalid distress
+
               [squalid = Dirty and wretched; morally repulsive; sordid]
 
 squandered talent
@@ -5170,9 +5129,6 @@ syncopated tune
 synthetic judgment
 
 systematic interaction
-
-
-T
 
 tacit assumption
 
@@ -5392,9 +5348,6 @@ typical excellence
 
 tyrannical disposition
 
-
-U
-
 ubiquitous activity
 
 ugly revelation
@@ -5522,6 +5475,7 @@ uncouth gambols
 uncritical position
 
 unctuously belaud           [unctuously = exaggerated, insincere]
+
                             [belaud  = praise greatly]
 
 undaunted defender
@@ -5615,6 +5569,7 @@ unflattering truth
 unflecked confidence
 
 unfledged novice
+
              [unfledged = young bird without feathers necessary to fly]
 
 unflinching zeal
@@ -5680,6 +5635,7 @@ uninterrupted process
 unique personality
 
 universal reprobation
+
                   [reprobation = condemned to hell; severe disapproval]
 
 unjust depreciation
@@ -5894,9 +5850,6 @@ useless fripperies          [fripperies = pretentious, showy]
 
 utmost scorn
 
-
-V
-
 vacant stupidity
 
 vacillating obedience
@@ -6024,9 +5977,6 @@ votive wreath
 vulgar prosperity
 
 vulnerable foe
-
-
-W
 
 wabbling enterprise      [wabbling = wobbling]
 
@@ -6156,9 +6106,6 @@ wriggling disputant
 
 writhing opponent
 
-
-Y
-
 yawning space
 
 yearning tenderness
@@ -6167,13 +6114,8 @@ yielding disposition
 
 youthful ambition
 
-
-Z
-
 zealous devotion
 
 zigzag method
 
 zoologically considered
-
-

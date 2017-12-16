@@ -1,10 +1,3 @@
-SECTION II
-
-SIGNIFICANT PHRASES
-
-
-A
-
 abashed and ashamed
 
 abhorrence and repulsion
@@ -225,9 +218,6 @@ awe and reverence
 
 awkwardness and crudity
 
-
-B
-
 babel and confusion
 
 backbone and sinew
@@ -344,9 +334,6 @@ businesslike and practicable
 
 bustle and business
 
-
-C
-
 cajoled and bullied
 
 calamity and sorrow
@@ -356,6 +343,7 @@ callous and impervious
 calmness and composure
 
 calumny and exaggeration
+
                    [calumny = maliciously lying to injure a reputation]
 
 candor and kindness
@@ -421,6 +409,7 @@ chief and paramount
 chilled and stiffened
 
 choleric and sanguine        [choleric = easily angered; bad-tempered]
+
                              [sanguine = cheerfully confident; optimistic]
 
 churlishness and violence    [churlish  = boorish or vulgar]
@@ -624,9 +613,6 @@ curved and channeled
 customs and manners
 
 cynical and contemptuous
-
-
-D
 
 dangers and pitfalls
 
@@ -890,9 +876,6 @@ dwarfed and obscured
 
 dwindle and disappear
 
-
-E
-
 eagerness and ecstasy
 
 earnestness and animation
@@ -1076,9 +1059,6 @@ extravagant and grotesque
 extreme and morbid
 
 exuberant and infectious
-
-
-F
 
 fabulous and fabricated
 
@@ -1272,9 +1252,6 @@ fussing and fuming
 
 futile and untrustworthy
 
-
-G
-
 gaiety and grace
 
 gallant and proud
@@ -1302,6 +1279,7 @@ genuine and infectious
 germ and root
 
 gesticulation and emphasis
+
                 [gesticulation = deliberate, vigorous motion or gesture]
 
 ghastly and inconceivable
@@ -1389,9 +1367,6 @@ guidance and inspiration
 gush and hysteria
 
 gusto and effect
-
-
-H
 
 habits and humors
 
@@ -1504,9 +1479,6 @@ hushed and still
 husks and phantoms
 
 hypocrisy and impudence
-
-
-I
 
 ideas and achievements
 
@@ -1754,9 +1726,6 @@ irritable and churlish        [churlish = boorish or vulgar]
 
 isolated and detached
 
-
-J
-
 jabber and chatter
 
 jagged and multifarious
@@ -1795,9 +1764,6 @@ justice and virtue
 
 juvenile and budding
 
-
-K
-
 keen and pertinacious      [pertinacious = stubbornly persistent]
 
 kind and forbearing
@@ -1813,9 +1779,6 @@ knavish and tyrannical
 knowledge and conviction
 
 known and recognized
-
-
-L
 
 labor and drudgery
 
@@ -1886,6 +1849,7 @@ lively and poignant
 loathsome and abject
 
 lofty and sonorous
+
             [sonorous = producing a full, rich sound; impressive speech]
 
 logical and consistent
@@ -1929,9 +1893,6 @@ luster and resplendence
 lusty and big-sounding
 
 luxury and pomp
-
-
-M
 
 madness and folly
 
@@ -2067,9 +2028,6 @@ mysterious and incomprehensible
 
 mystic and wonderful
 
-
-N
-
 nagging and squabbling
 
 nameless and obscure
@@ -2136,12 +2094,10 @@ number and variety
 
 numerous and important
 
-
-O
-
 oaths and revilings
 
 obdurate and impenitent    [obdurate = hardened in wrongdoing ]
+
                            [impenitent = without remorse for sins]
 
 obedient and dutious
@@ -2163,6 +2119,7 @@ obnoxious and odious
 obscure and enigmatical
 
 obsequies and panegyrics      [obsequies = funeral rite]
+
                               [panegyrics = elaborate praise]
 
 obsequious and conciliating   [obsequious = servile compliance; fawning]
@@ -2255,9 +2212,6 @@ overwearied and outworn
 
 overworked and fagged          [fagged = worked to exhaustion]
 
-
-P
-
 pains and penalties
 
 painstaking and cumbersome
@@ -2299,6 +2253,7 @@ pattern and exemplar         [exemplar = worthy of imitation]
 peaks and pinnacles
 
 pedagogue and pedant
+
              [pedant = exhibits learning or scholarship ostentatiously]
 
 pedantries and affectations
@@ -2350,6 +2305,7 @@ pettiness and prudence
 petulance and acrimony
 
 pharisaical and bitter
+
           [pharisaical = hypocritically self-righteous and condemnatory]
 
 pictorial and dramatic
@@ -2498,9 +2454,6 @@ pusillanimous and petty        [pusillanimous = cowardly]
 
 puzzled and affected
 
-
-Q
-
 quackery and incompetence
 
 quaintness and oddity
@@ -2528,9 +2481,6 @@ quirks and graces
 quivering and fearful
 
 quizzical and whimsical
-
-
-R
 
 racked and oppressed
 
@@ -2575,6 +2525,7 @@ recoil and reaction
 reconciliation and peace
 
 recondite and abstruse       [recondite = concealed; hidden]
+
                              [abstruse = difficult to understand]
 
 reconnoiter and explore
@@ -2689,9 +2640,6 @@ rushing and gurgling
 
 rust and disuse
 
-
-S
-
 sad and melancholy
 
 sagacity and virtue           [sagacity = farsighted; wise]
@@ -2747,6 +2695,7 @@ sensibilities and emotions
 sensitive and capricious
 
 sententious and tiresome
+
                   [sententious = pompous moralizing; terse and energetic]
 
 sentiment and passion
@@ -3007,9 +2956,6 @@ symbolism and imagery
 
 sympathetic and consoling
 
-
-T
-
 taciturn and laconic         [taciturn = untalkative] [laconic = terse]
 
 tactful and conciliatory
@@ -3133,6 +3079,7 @@ truth and righteousness
 turbid and noise some
 
 turgid and bombastic            [turgid = excessively complex]
+
                                 [bombastic = pompous]
 
 turmoil and shouting
@@ -3142,9 +3089,6 @@ twisted and perverted
 type and forerunner
 
 tyrant and oppressor
-
-
-U
 
 unaccountable and grotesque
 
@@ -3246,9 +3190,6 @@ urbanity and unction         [unction = exaggerated earnestness]
 
 utter and disastrous
 
-
-V
-
 vacillation and uncertainty
 
 vague and indistinct
@@ -3329,9 +3270,6 @@ voluntarily and habitually
 
 vulgar and artificial
 
-
-W
-
 wandering and erratic
 
 wanton and unnecessary
@@ -3339,6 +3277,7 @@ wanton and unnecessary
 war and revelry
 
 warp and woof               [warp = lengthwise threads]
+
                             [woof = crosswise threads]
 
 wasteful and circuitous
@@ -3399,9 +3338,6 @@ wrath and menace
 
 wretched and suppliant
 
-
-Y
-
 yearning and eagerness
 
 yielding and obedience
@@ -3412,9 +3348,6 @@ young and fragile
 
 youthful and callow        [callow = immature]
 
-
-Z
-
 zeal and vehemence
 
 zenith and climax
@@ -3422,7 +3355,3 @@ zenith and climax
 zest and freshness
 
 zigzag and deviating
-
-
-
-

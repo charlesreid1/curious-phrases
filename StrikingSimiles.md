@@ -1,15 +1,9 @@
-SECTION VIII
-
-STRIKING SIMILES
-
-
-A
-
 A blind rage like a fire swept over him
 
 A book that rends and tears like a broken saw
 
 A breath of melancholy made itself felt
+
 like a chill and sudden gust from some unknown sea
 
 A cloud in the west like a pall creeps upward
@@ -43,6 +37,7 @@ A fluttering as of blind bewildered moths
 A giant galleon overhead, looked like some misty monster of the deep
 
 A glacial pang of pain like
+
 the stab of a dagger of ice frozen from a poisoned well
 
 A glance that flitted like a bird
@@ -84,11 +79,13 @@ A mighty wind, like a leviathan, plowed the brine
 A mind very like a bookcase
 
 A mystery, soft, soothing and gentle, like the whisper of a child
+
 murmuring its happiness in its sleep
 
 A name which sounds even now like the call of a trumpet
 
 A note of despairing appeal which fell
+
 like a cold hand upon one's living soul
 
 A purpose as the steady flame
@@ -96,9 +93,11 @@ A purpose as the steady flame
 A question deep almost as the mystery of life
 
 A quibbling mouth that snapped at verbal errors
+
 like a lizard catching flies
 
 A radiant look came over her face,
+
 like a sudden burst of sunshine on a cloudy day
 
 A reputation that swelled like a sponge
@@ -106,6 +105,7 @@ A reputation that swelled like a sponge
 A ruby like a drop of blood
 
 A shadow of melancholy touched her lithe fancies,
+
 as a cloud dims the waving of golden grain
 
 A silver moon, like a new-stamped coin, rode triumphant in the sky
@@ -135,6 +135,7 @@ A thing of as frail enchantment as the gleam of stars upon snow
 A vague thought, as elusive as the smell of a primrose
 
 A vanishing loveliness as tender as the flush of the rose leaf
+
 and as ethereal as the light of a solitary star
 
 A voice as low as the sea
@@ -154,6 +155,7 @@ Agitated like a storm-tossed ship
 Air like wine
 
 All around them like a forest swept the deep and
+
 empurpled masses of her tangled hair
 
 All like an icicle it seemed, so tapering and cold
@@ -163,6 +165,7 @@ All my life broke up, like some great river's ice at touch of spring
 All silent as the sheeted dead
 
 All sounds were lost in the whistle of air humming by
+
 like the flight of a million arrows
 
 All that's beautiful drifts away like the waters
@@ -178,6 +181,7 @@ An anxiety hung like a dark impenetrable cloud
 An ardent face out-looking like a star
 
 An ecstasy which suddenly overwhelms your mind like
+
 an unexpected and exquisite thought
 
 An envious wind crept by like an unwelcome thought
@@ -193,6 +197,7 @@ An indefinable resemblance to a goat
 An isle of Paradise, fair as a gem
 
 An old nodding negress whose sable head shined in the sun
+
 like a polished cocoanut
 
 An omnibus across the bridge crawls like a yellow butterfly
@@ -222,6 +227,7 @@ And her cheek was like a rose
 And here were forests ancient as the hills
 
 And many a fountain, rivulet, and pond,
+
 as clear as elemental diamond, or serene morning air
 
 And melting like the stars in June
@@ -235,6 +241,7 @@ And spangled o'er with twinkling points, like stars
 And the smile she softly uses fills the silence like a speech
 
 As a child in play scatters the heaps of sand
+
 that he has piled on the seashore
 
 As a cloud that gathers her robe like drifted snow
@@ -356,6 +363,7 @@ As merry as bees in clover
 As nimble as water
 
 As one who has climbed above the earth's eternal snowline
+
 and sees only white peaks and pinnacles
 
 As pale as any ghost
@@ -379,6 +387,7 @@ As shallow streams run dimpling all the way
 As simple as the intercourse of a child with its mother
 
 As sleep falls upon the eyes of a child
+
 tired with a long summer day of eager pleasure and delight
 
 As some vast river of unfailing source
@@ -396,6 +405,7 @@ As summer winds that creep from flower to flower
 As supple as a step-ladder
 
 As swaggering and sentimental as a penny novellete
+
                                                [novellete = short novel]
 
 As swift as thought
@@ -407,6 +417,7 @@ As the bubble is extinguished in the ocean
 As the dew upon the roses warms and melts the morning light
 
 As the fair cedar, fallen before the breeze,
+
 lies self-embalmed amidst the moldering trees
 
 As the light straw flies in dark'ning whirlwinds
@@ -422,6 +433,7 @@ As those move easiest who have learn'd to dance
 As though a rose should shut, and be a bud again
 
 As though Pharaoh should set the Israelites
+
 to make a pin instead of a pyramid
 
 As unapproachable as a star
@@ -436,9 +448,6 @@ Away he rushed like a cyclone
 
 Awkward as a cart-horse
 
-
-B
-
 Babbling like a child
 
 Balmy in manner as a bland southern morning
@@ -452,6 +461,7 @@ Beautiful as the dawn, dominant as the sun
 Beauty maddens the soul like wine
 
 Beheld great Babel, wrathful, beautiful,
+
 burn like a blood-red cloud upon the plain
 
 Beneath a sky as fair as summer flowers
@@ -489,6 +499,7 @@ Brisk as a wasp in the sunshine
 Brittle and bent like a bow
 
 Bronze-green beetles tumbled over stones, and lay helpless on their backs
+
 with the air of an elderly clergyman knocked down by an omnibus
 
 Brown as the sweet smelling loam
@@ -504,9 +515,6 @@ But across it, like a mob's menace, fell the thunder
 But thou art fled, like some frail exhalation
 
 Butterflies like gems
-
-
-C
 
 Calm as the night
 
@@ -557,11 +565,15 @@ Collapsed like a concertina
 Colored like a fairy tale
 
 Companionless as the last cloud of an expiring storm
+
 whose thunder is its knell
 
 Consecration that like a golden thread
+
 runs through the warp and woof of one's life
+
                                            [warp = lengthwise threads]
+
                                            [woof = crosswise threads]
 
 Constant as gliding waters
@@ -581,9 +593,6 @@ Cruel as death
 Curious as a lynx
 
 Cuts into the matter as with a pen of fire
-
-
-D
 
 Dainty as flowers
 
@@ -638,6 +647,7 @@ Do make a music like to rustling satin
 Dogging them like their own shadow
 
 Dost thou not hear the murmuring nightingale
+
 like water bubbling from a silver jar?
 
 Drop like a feather, softly to the ground
@@ -645,9 +655,6 @@ Drop like a feather, softly to the ground
 Drowned like rats
 
 Dull as champagne
-
-
-E
 
 Each like a corpse within its grave
 
@@ -662,6 +669,7 @@ Ears that seemed as deaf as dead man's ears
 Easy as a poet's dream
 
 Emotions flashed across her face
+
 like the sweep of sun-rent clouds over a quiet landscape
 
 Eternal as the skies
@@ -671,6 +679,7 @@ Evanescent as bubbles                [evanescent  = vanishing like vapor]
 Every flake that fell from heaven was like an angel's kiss
 
 Every lineament was clear as in the sculptor's thought
+
                                      [lineament = characteristic feature]
 
 Everyone on the watch, like a falcon on its nest
@@ -684,6 +693,7 @@ Eyes as deeply dark as are the desert skies
 Eyes as luminous and bright and brown as waters of a woodland river
 
 Eyes half veiled by slumberous tears,
+
 like bluest water seen through mists of rain
 
 Eyes like a very dark topaz
@@ -693,9 +703,6 @@ Eyes like deep wells of compassionate gloom
 Eyes like limpid pools in shadow
 
 Eyes like mountain water that o'erflowing on a rock
-
-
-F
 
 Faces pale with bliss, like evening stars
 
@@ -769,9 +776,6 @@ Full-throated as the sea
 
 Furious as eagles
 
-
-G
-
 Gazed like a star into the morning light
 
 Glaring like noontide
@@ -783,6 +787,7 @@ Glistening like threads of gold
 Glitter like a swarm of fire-flies tangled in a silver braid
 
 Glittering like an aigrette of stars
+
                            [aigrette = ornamental tuft of upright plumes]
 
 Gone astray as a sheep that is lost
@@ -794,13 +799,12 @@ Gone like tenants that quit without warning
 Gorgeous as the hues of heaven
 
 Grazing through a circulating library
+
 as contentedly as cattle in a fresh meadow
 
 Great scarlet poppies lay in drifts and heaps,
+
 like bodies fallen there in vain assault
-
-
-H
 
 Hair as harsh as tropical grass and gray as ashes
 
@@ -813,7 +817,9 @@ Harnessed men, like beasts of burden, drew it to the river-side
 Haunts you like the memory of some former happiness
 
 He began to laugh with that sibilant laugh
+
 which resembles the hiss of a serpent
+
                                     [sibilant = producing a hissing sound]
 
 He bent upon the lightning page like some rapt poet o'er his rhyme
@@ -851,6 +857,7 @@ He saw disaster like a ghostly figure following her
 He snatched furiously at breath like a tiger snatching at meat
 
 He spoke with a uniformity of emphasis
+
 that made his words stand out like the raised type for the blind
 
 He swayed in the sudden grip of anger
@@ -908,6 +915,7 @@ Her eyes, glimmering star-like in her pale face
 Her eyes were as a dove that sickeneth
 
 Her face changed with each turn of their talk,
+
 like a wheat-field under a summer breeze
 
 Her face collapsed as if it were a pricked balloon
@@ -919,6 +927,7 @@ Her face was dull as lead
 Her face was like a light
 
 Her face was passionless,
+
 like those by sculptor graved for niches in a temple
 
 Her hair dropped on her pallid cheeks, like sea-weed on a clam
@@ -952,6 +961,7 @@ Her lips like a lovely song that ripples as it flows
 Her lips like twilight water
 
 Her little lips are tremulous as brook-water is
+
                                          [tremulous = timid or fearful]
 
 Her long black hair danced round her like a snake
@@ -983,11 +993,13 @@ Her words sounding like wavelets on a summer shore
 Herding his thoughts as a collie dog herds sheep
 
 Here and there a solitary volume greeted him
+
 like a friend in a crowd of strange faces
 
 Here in statue-like repose, an old wrinkled mountain rose
 
 Hers was the loveliness of some tall white lily cut in marble,
+
 splendid but chill
 
 His bashfulness melted like a spring frost
@@ -995,6 +1007,7 @@ His bashfulness melted like a spring frost
 His brow bent like a cliff o'er his thoughts
 
 His cheeks were furrowed and writhen like rain-washed crags
+
                                                       [writhen = twisted]
 
 His eyes blazed like deep forests
@@ -1020,7 +1033,9 @@ His glorious moments were strung like pearls upon a string
 His indifference fell from him like a garment
 
 His invectives and vituperations bite and flay like steel whips
+
                                        [invective = abusive language]
+
                                        [vituperation = abusive language]
 
 His mind murmurs like a harp among the trees
@@ -1040,16 +1055,19 @@ His spirits sank like a stone
 His talk is like an incessant play of fireworks
 
 His voice is as the thin faint song
+
 when the wind wearily sighs in the grass
 
 His voice rose like a stream of rich distilled perfumes
 
 His voice was like the clap of thunder
+
 which interrupts the warbling birds among the leaves
 
 His whole soul wavered and shook like a wind-swept leaf
 
 His words gave a curious satisfaction,
+
 as when a coin, tested, rings true gold
 
 Hopeful as the break of day
@@ -1069,9 +1087,6 @@ Humming-birds like lake of purple fire
 Hushed as the grave
 
 Hushed like a breathless lyre
-
-
-I
 
 I had grown pure as the dawn and the dew
 
@@ -1148,29 +1163,23 @@ It was as if a door had been opened into a furnace, so the eyes blazed
 It would collapse as if by enchantment
 
 Its temples and its palaces did seem
+
 like fabrics of enchantment piled to Heaven
 
-
-J
-
 Jealousy, fierce as the fires
-
-
-K
 
 Kindle like an angel's wings the western skies in flame
 
 Kindly mornings when autumn and winter
+
 seemed to go hand in hand like a happy aged couple
 
 Kingdoms melt away like snow
 
-
-L
-
 Laboring like a giant
 
 Languid streams that cross softly, slowly,
+
 with a sound like smothered weeping
 
 Laughter like a beautiful bubble from the rosebud of baby-hood
@@ -1188,7 +1197,9 @@ Let in confusion like a whirling flood
 Let thy mouth murmur like the doves
 
 Life had been arrested, as the horologist,
+
 with interjected finger, arrests the beating of the clock
+
                                    [horologist = one who repairs watches]
 
 Life stretched before him alluring and various as the open road
@@ -1208,6 +1219,7 @@ Like a blast from a horn
 Like a blast from the suddenly opened door of a furnace
 
 Like a blossom blown before a breeze,
+
 a white moon drifts before a shimmering sky
 
 Like a bright window in a distant view
@@ -1275,6 +1287,7 @@ Like a long arrow through the dark the train is darting
 Like a mirage, vague, dimly seen at first
 
 Like a miser who spoils his coat with scanting a little cloth
+
                                                        [scanting = short]
 
 Like a mist the music drifted from the silvery strings
@@ -1314,6 +1327,7 @@ Like a snow-flake lost in the ocean
 Like a soul that wavers in the Valley of the Shadow
 
 Like a stalled horse that breaks loose
+
 and goes at a gallop through the plain
 
 Like a star, his love's pure face looked down
@@ -1329,6 +1343,7 @@ Like a summer cloud, youth indeed has crept away
 Like a summer-dried fountain
 
 Like a swift eagle in the morning glare
+
 breasting the whirlwind with impetuous flight
 
 Like a thing at rest
@@ -1336,6 +1351,7 @@ Like a thing at rest
 Like a thing read in a book or remembered out of the faraway past
 
 Like a tide of triumph through their veins,
+
 the red, rejoicing blood began to race
 
 Like a triumphing fire the news was borne
@@ -1403,6 +1419,7 @@ Like bursting waves from the ocean
 Like cliffs which have been rent asunder
 
 Like clouds of gnats with perfect lineaments
+
                                          [lineaments = distinctive shape]
 
 Like cobwebs woven round the limbs of an infant giant
@@ -1412,6 +1429,7 @@ Like crystals of snow
 Like dead lovers who died true
 
 Like Death, who rides upon a thought,
+
 and makes his way through temple, tower, and palace
 
 Like dew upon a sleeping flower
@@ -1479,6 +1497,7 @@ Like notes which die when born, but still haunt the echoes of the hill
 Like oceans of liquid silver
 
 Like one pale star against the dusk,
+
 a single diamond on her brow gleamed with imprisoned fire
 
 Like one who halts with tired wings
@@ -1516,11 +1535,13 @@ Like skeletons, the sycamores uplift their wasted hands
 Like some grave night thought threading a dream
 
 Like some new-gathered snowy hyacinth,
+
 so white and cold and delicate it was
 
 Like some poor nigh-related guest, that may not rudely be dismist
 
 Like some suppressed and hideous thought which flits athwart our musings,
+
 but can find no rest within a pure and gentle mind
 
 Like some unshriven churchyard thing, the friar crawled
@@ -1562,6 +1583,7 @@ Like the dance of some gay sunbeam
 Like the dawn of the morn
 
 Like the detestable and spidery araucaria
+
            [araucaria = evergreen trees of South America and Australia]
 
 Like the dew on the mountain
@@ -1569,6 +1591,7 @@ Like the dew on the mountain
 Like the dim scent in violets
 
 Like the drifting foam of a restless sea
+
 when the waves show their teeth in the flying breeze
 
 Like the embodiment of a perfect rose, complete in form and fragrance
@@ -1580,6 +1603,7 @@ Like the faint exquisite music of a dream
 Like the fair flower dishevel'd in the wind
 
 Like the fair sun, when in his fresh array he cheers the morn,
+
 and all the earth revealeth
 
 Like the falling thud of the blade of a murderous ax
@@ -1617,6 +1641,7 @@ Like the sap that turns to nectar, in the velvet of the peach
 Like the sea whose waves are set in motion by the winds
 
 Like the sea-worm, that perforates the shell of the mussel,
+
 which straightway closes the wound with a pearl
 
 Like the setting of a tropical sun
@@ -1628,6 +1653,7 @@ Like the shadows of the stars in the upheaved sea
 Like the shudder of a doomed soul
 
 Like the silver gleam when the poplar trees
+
 rustle their pale leaves listlessly
 
 Like the soft light of an autumnal day
@@ -1635,6 +1661,7 @@ Like the soft light of an autumnal day
 Like the Spring-time, fresh and green
 
 Like the stern-lights of a ship at sea,
+
 illuminating only the path which has been passed over
 
 Like the sudden impulse of a madman
@@ -1652,9 +1679,11 @@ Like the whole sky when to the east the morning doth return
 Like thistles of the wilderness, fit neither for food nor fuel
 
 Like those great rivers, whose course everyone beholds,
+
 but their springs have been seen by but few
 
 Like thoughts whose very sweetness
+
 yielded proof that they were born for immortality
 
 Like to diamonds her white teeth shone between the parted lips
@@ -1674,6 +1703,7 @@ Like village curs that bark when their fellows do
 Like wasted hours of youth
 
 Like winds that bear sweet music,
+
 when they breathe through some dim latticed chamber
 
 Like wine-stain to a flask the old distrust still clings
@@ -1697,6 +1727,7 @@ Looked back with faithful eyes like a great mastiff to his master's face
 Looking as sulky as the weather itself
 
 Looking like a snarling beast baulked of its prey
+
                                            [baulked = checked, thwarted]
 
 Loose clouds like earth's decaying leaves are shed
@@ -1724,9 +1755,6 @@ Love that sings and has wings as a bird
 Lovely as starry water
 
 Lovely the land unknown and like a river flowing
-
-
-M
 
 March on my soul nor like the laggard stay
 
@@ -1797,30 +1825,28 @@ My spirit seemed to beat the void, like the bird from out the ark
 My thoughts came yapping and growling round me like a pack of curs
 
 My thoughts ran leaping through the green ways of my mind
+
 like fawns at play
-
-
-N
 
 Night falls like fire
 
 No longer shall slander's venomed spite crawl
+
 like a snake across his perfect name
 
 Now every nerve in my body seemed like a strained harp-string
+
 ready to snap at a touch
 
 Now like a wild nymph she veils her shadowy form
 
 Now like a wild rose in the fields of heaven
+
 slipt forth the slender figure of the Dawn
 
 Now memory and emotion surged in my soul like a tempest
 
 Now thou seemest like a bankrupt beau, stripped of his gaudy hues
-
-
-O
 
 Obscured with wrath as is the sun with cloud
 
@@ -1847,6 +1873,7 @@ One deep roar as of a cloven world
 One winged cloud above like a spread dragon overhangs the west
 
 Oppressed by the indefiniteness which hung in her mind,
+
 like a thick summer haze
 
 Or shedding radiance like the smiles of God
@@ -1858,9 +1885,6 @@ Our hearts bowed down like violets after rain
 Our sail like a dew-lit blossom shone
 
 Overhead the intense blue of the noonday sky burst like a jewel in the sun
-
-
-P
 
 Pale and grave as a sculptured nun
 
@@ -1879,6 +1903,7 @@ Perished utterly, like a blown-out flame
 Philosophy evolved itself, like a vast spider's loom
 
 Pillowed upon its alabaster arms
+
 like to a child o'erwearied with sweet toil
 
 Polished as the bosom of a star
@@ -1890,6 +1915,7 @@ Pouting like the snowy buds o' roses in July
 Presently she hovered like a fluttering leaf or flake of snow
 
 Pride and self-disgust served her
+
 like first-aid surgeons on the battlefield
 
 Proud as the proudest of church dignitaries
@@ -1906,9 +1932,6 @@ Purple, crimson, and scarlet, like the curtains of God's tabernacle
 
 Put on gravity like a robe
 
-
-Q
-
 Quaking and quivering like a short-haired puppy after a ducking
 
 Questions and answers sounding like a continuous popping of corks
@@ -1921,10 +1944,8 @@ Quietude which seemed to him beautiful as clear depths of water
 
 Quivering like an eager race-horse to start
 
-
-R
-
 Rage, rage ye tears, that never more should creep
+
 like hounds about God's footstool
 
 Ran like a young fawn
@@ -1954,6 +1975,7 @@ Rich as the dawn
 Ride like the wind through the night
 
 Rivers that like silver threads
+
 ran through the green and gold of pasture lands
 
 Roared like mountain torrents
@@ -1967,16 +1989,15 @@ Ruddy as sunrise
 Ruddy his face as the morning light
 
 Ruffling out his cravat with a crackle of starch,
+
 like a turkey when it spreads its feathers
 
 Running to and fro like frightened sheep
 
 Rushing and hurrying about like a June-bug
 
-
-S
-
 Sanctuaries where the passions may, like wild falcons,
+
 cover their faces with their wings
 
 Sayings that stir the blood like the sound of a trumpet
@@ -2004,9 +2025,11 @@ She could summon tears as one summons servants
 She danced like a flower in the wind
 
 She disclaimed the weariness that
+
 dragged upon her spirits like leaden weights
 
 She exuded a faint and intoxicating perfume of womanliness,
+
 like a crushed herb
 
 She felt like an unrepentant criminal
@@ -2016,6 +2039,7 @@ She fled like a spirit from the room
 She flounders like a huge conger-eel in an ocean of dingy morality
 
 She gave him a surprised look,
+
 like a child catching an older person in a foolish statement
 
 She gave off antipathies as a liquid gives off vapor
@@ -2035,6 +2059,7 @@ She moved like mirth incarnate
 She nestles like a dove
 
 She played with a hundred possibilities
+
 fitfully and discursively as a musician runs his fingers over a key-board
 
 She played with grave cabinets as a cat plays with a mouse
@@ -2074,6 +2099,7 @@ Sights seen as a traveling swallow might see them on the wing
 Silence deep as death
 
 Silence now is brooding
+
 like a gentle spirit o'er the still and pulseless world
 
 Silence that seemed heavy and dark; like a passing cloud
@@ -2093,9 +2119,11 @@ Slowly as a tortoise
 Slowly as the finger of a clock, her shadow came
 
 Slowly moved off and disappeared
+
 like shapes breathed on a mirror and melting away
 
 Slowly, unnoted, like the creeping rust
+
 that spreads insidious, had estrangement come
 
 Small as a grain of mustard seed
@@ -2109,6 +2137,7 @@ Snug as a bug in a rug
 Soaring as swift as smoke from a volcano springs
 
 So elusive that the memory of it afterwards
+
 was wont to come and go like a flash of light
 
 So my spirit beat itself like a caged bird against its prison bars in vain
@@ -2128,25 +2157,31 @@ Soft as the south-wind
 Soft in their color as gray pearls
 
 Soft vibrations of verbal melody, like the sound of a golden bell
+
 rung far down under the humming waters
 
 Some gleams of feeling pure and warm as sunshine on a sky of storm
 
 Some like veiled ghosts hurrying past
+
 as though driven to their land of shadows by shuddering fear
 
 Some minds are like an open fire--how direct and instant
+
 our communication with them
 
 Something divine seemed to cling around her like some subtle vapor
 
 Something resistant and inert, like the obstinate rolling over
+
 of a heavy sleeper after he has been called to get up
 
 Something sharp and brilliant, like the glitter of a sword
+
 or a forked flash of lightning
 
 Sorrowful eyes like those of wearied kine spent from the plowing
+
                                                             [kine = cows]
 
 Spread like wildfire
@@ -2180,6 +2215,7 @@ Striking with the force of an engine of destruction
 Strong as a bison
 
 Style comes, if at all, like the bloom upon fruit,
+
 or the glow of health upon the cheek
 
 Subtle as jealousy
@@ -2187,14 +2223,17 @@ Subtle as jealousy
 Sudden a thought came like a full-blown rose, flushing his brow
 
 Sudden sprays of rain, like volleys of sharp arrows,
+
 rattled gustily against the windows
 
 Suddenly, like death, the truth flashed on them
 
 Sunbeams flashing on the face of things
+
 like sudden smilings of divine delight
 
 Sunday mornings which seem to put on, like a Sabbath garment,
+
 an atmosphere of divine quietude
 
 Supple and sweet as a rose in bloom
@@ -2217,9 +2256,6 @@ Swift as the panther in triumph
 
 Swifter than the twinkling of an eye
 
-
-T
-
 Talking and thinking became to him like the open page of a monthly magazine
 
 Tall lance-like reeds wave sadly o'er his head
@@ -2229,6 +2265,7 @@ That like a wounded snake drags its slow length along
 The anemone that weeps at day-break, like a silly girl before her lover
 
 The army blazed and glowed in the golden sunlight
+
 like a mosaic of a hundred thousand jewels
 
 The army like a witch's caldron seethed
@@ -2244,6 +2281,7 @@ The birds swam the flood of air like tiny ships
 The boat cuts its swift way through little waves like molten gold and opal
 
 The boom of the surf grew ever less sonorous,
+
 like the thunder of a retreating storm
 
 The breast-plate of righteousness
@@ -2257,6 +2295,7 @@ The calm white brow as calm as earliest morn
 The camp fire reddens like angry skies
 
 The chambers of the house were haunted by an incessant echoing,
+
 like some dripping cavern
 
 The church swarmed like a hive
@@ -2302,22 +2341,27 @@ The desolate rocky hills rolled like a solid wave along the horizon
 The dome of heaven is like one drop of dew
 
 The dreams of poets come like music heard at evening
+
 from the depth of some enchanted forest
 
 The eagerness faded from his eyes,
+
 leaving them cold as a winter sky after sunset
 
 The earth was like a frying-pan, or some such hissing matter
 
 The eternal sea, which like a childless mother,
+
 still must croon her ancient sorrows to the cold white moon
 
 The evening sky was as green as jade
 
 The excitement had spread through the whole house,
+
 like a piquant and agreeable odor
 
 The excitement of the thought
+
 buoyed his high-strung temperament like a tonic
 
 The feathery meadows like a lilac sea
@@ -2333,14 +2377,17 @@ The fragrant clouds of hair, they flowed round him like a snare
 The gathering glory of life shone like the dawn
 
 The gesture was all strength and will,
+
 like the stretching of a sea-bird's wings
 
 The girl's voice rang like a bird-call through his rustling fancies
 
 The glimmer of tall flowers standing
+
 like pensive moon-worshipers in an ecstasy of prayerless bloom
 
 The guides sniffed, like chamois, the air
+
                                [chamois = extremely agile goat antelope]
 
 The heavens are like a scroll unfurled
@@ -2358,11 +2405,13 @@ The hurrying crowds of men gather like clouds
 The ideas succeeded each other like a dynasty of kings
 
 The impalpable presence of the new century
+
 rose like a vast empty house through which
 
 no human feet had walked
 
 The inexorable facts closed in on him
+
 like prison-warders hand-cuffing a convict
 
 The lake glimmered as still as a mirror
@@ -2378,11 +2427,13 @@ The light of London flaring like a dreary dawn
 The lights blazed up like day
 
 The lilies were drooping, white, and wan,
+
 like the head and skin of a dying man
 
 The mellowing hand of time
 
 The melody rose tenderly and lingeringly
+
 like a haunting perfume of pressed flowers
 
 The Milky Way lay like diamond-dust upon the robe of some great king
@@ -2420,9 +2471,11 @@ The night yawned like a foul wind
 The ocean swelled like an undulating mirror of the bowl of heaven
 
 The old books look somewhat pathetically from the shelves,
+
 like aged dogs wondering why no one takes them for a walk
 
 The old infamy will pop into daylight
+
 like a toad out of fissure in the rock
 
 The penalty falls like a thunderbolt from heaven
@@ -2434,6 +2487,7 @@ The pine trees waved as waves a woman's hair
 The place was like some enchanted town of palaces
 
 The plains to northward change their color
+
 like the shimmering necks of doves
 
 The poppy burned like a crimson ember
@@ -2441,6 +2495,7 @@ The poppy burned like a crimson ember
 The prime of man has waxed like cedars
 
 The public press would chatter and make odd ambiguous sounds
+
 like a shipload of monkeys in a storm
 
 The purple heather rolls like dumb thunder
@@ -2448,6 +2503,7 @@ The purple heather rolls like dumb thunder
 The rainbows flashed like fire
 
 The river shouted as ever its cry of joy over the vitality of life,
+
 like a spirited boy before the face of inscrutable nature
 
 The roofs with their gables like hoods
@@ -2475,6 +2531,7 @@ The sharp hail rattles against the panes and melts on my cheeks like tears
 The ships, like sheeted phantoms coming and going
 
 The silence seemed to crush to earth
+
 like a great looking-glass and shiver into a million pieces
 
 The silvery morning like a tranquil vision fills the world
@@ -2484,6 +2541,7 @@ The sky burned like a heated opal
 The sky gleamed with the hardness and brilliancy of blue enamel
 
 The sky was as a shield
+
 that caught the stain of blood and battle from the dying sun
 
 The sky was clear and blue, and the air as soft as milk
@@ -2515,13 +2573,17 @@ The stacks of corn in brown array, like tattered wigwams on the plain
 The stars come down and trembling glow like blossoms on the waves below
 
 The stars lay on the lapis-lazuli sky
+
 like white flower-petals on still deep water
+
                             [lapis-lazuli = opaque to translucent blue,
+
                              violet-blue, or greenish-blue gemstone]
 
 The stars pale and silent as a seer
 
 The strange cold sense of aloofness that had numbed her senses
+
 suddenly gave way like snow melting in the spring
 
 The sudden thought of your face is like a wound when it comes unsought
@@ -2531,6 +2593,7 @@ The sun, like a great dragon, writhes in gold
 The sun on the sea-wave lies white as the moon
 
 The surf was like the advancing lines of an unknown enemy
+
 flinging itself upon the shore
 
 The terrible past lay afar, like a dream left behind in the night
@@ -2540,6 +2603,7 @@ The tide was in the salt-weed, and like a knife it tore
 The time, gliding like a dream
 
 The torrent from the hills
+
 leaped down their rocky stairways like wild steeds
 
 The tree whose plumed boughs are soft as wings of birds
@@ -2551,6 +2615,7 @@ The veiled future bowed before me like a vision of promise
 The velvet grass that is like padding to earth's meager ribs
 
 The villa dips its foot in the lake, smiling at its reflection
+
 like a bather lingering on the brink
 
 The voice of Fate, crying like some old Bellman through the world
@@ -2566,6 +2631,7 @@ The whole truth, naked, cold, and fatal as a patriot's blade
 The wind all round their ears hissed like a flight of white-winged geese
 
 The wind comes and it draws its length along
+
 like the genii from the earthen pot
 
 The wine flows like blood
@@ -2575,6 +2641,7 @@ The woman seemed like a thing of stone
 The words kept ringing in my ears like the tolling of a bell
 
 The words of the wise fall
+
 like the tolling of sweet, grave bells upon the soul
 
 The world had vanished like a phantasmagoria
@@ -2586,6 +2653,7 @@ The world is in a simmer, like a sea
 The world wavers within its circle like a dream
 
 The years stretched before her like some vast blank page
+
 out to receive the record of her toil
 
 The years vanished like a May snowdrift
@@ -2597,6 +2665,7 @@ Their glances met like crossed swords
 Their joy like sunshine deep and broad falls on my heart
 
 Their minds rested upon the thought,
+
 as chasing butterflies might rest together on a flower
 
 Their music frightful as the serpent's hiss
@@ -2608,6 +2677,7 @@ Then fall unheeded like the faded flower
 Then felt I like some watcher of the skies
 
 Then it swelled out to rich and glorious harmonies
+
 like a full orchestra playing under the sea
 
 Then the lover sighing like furnace
@@ -2619,6 +2689,7 @@ There is an air about you like the air that folds a star
 There, like a bird, it sits and sings
 
 There seemed to brood in the air a quiet benevolence
+
 of a Father watching His myriad children at play
 
 There she soars like a seraph
@@ -2628,6 +2699,7 @@ There she stood straight as a lily on its stem
 There slowly rose to sight, a country like a dragon fast asleep
 
 There streamed into the air the sweet smell of crushed grass, as though
+
 many fields had been pressed between giant's fingers and so had been left
 
 These eyes like stars have led me
@@ -2645,6 +2717,7 @@ They are as white swans in the dusk, thy white hands
 They are painted sharp as death
 
 They broke into pieces and fell on the ground,
+
 like a silvery, shimmering shower of hail
 
 They dropped like panthers
@@ -2660,6 +2733,7 @@ They have as many principles as a fish has bones
 They have faces like flowers
 
 They hurried down like plovers that have heard the call
+
                                                 [plovers = wading birds]
 
 They look like rose-buds filled with snow
@@ -2671,6 +2745,7 @@ They seemed like floating flowers
 They shine as sweet as simple doves
 
 They stand like solitary mountain forms
+
 on some hard, perfectly transparent day
 
 They vanished like the shapes that float upon a summer's dream
@@ -2690,6 +2765,7 @@ This thought is as death
 This tower rose in the sunset like a prayer
 
 Those ancestral themes past which so many generations have slept
+
 like sea-going winds over pastures
 
 Those death-like eyes, unconscious of the sun
@@ -2719,9 +2795,11 @@ Thoughts vague as the fitful breeze
 Three-cornered notes fly about like butterflies
 
 Through the forest, like a fairy dream through some dark mind,
+
 the ferns in branching beauty stream
 
 Through the moonlit trees, like ghosts of sounds haunting the moonlight,
+
 stole the faint tinkle of a guitar
 
 Through the riot of his senses, like a silver blaze, ran the legend
@@ -2729,6 +2807,7 @@ Through the riot of his senses, like a silver blaze, ran the legend
 Thy beauty like a beast it bites
 
 Thy brown benignant eyes have sudden gleams of gladness and surprise,
+
 like woodland brooks that cross a sunlit spot
 
 Thy carven columns must have grown by magic, like a dream in stone
@@ -2750,6 +2829,7 @@ Time drops in decay, like a candle burnt out
 Time like a pulse shakes fierce
 
 To drag life on, which
+
 like a heavy chain lengthens behind with many a link of pain
 
 To forsake as the trees drop their leaves in autumn
@@ -2761,6 +2841,7 @@ Transitory as clouds without substance
 Transparent like a shining sun
 
 Tree and shrub altered their values
+
 and became transmuted to silver sentinels
 
 Trees that spread their forked boughs like a stag's antlers
@@ -2771,9 +2852,6 @@ Truths which forever shine as fixed stars
 
 Turning easily and securely as on a perfect axle
 
-
-U
-
 Unbends like a loosened bow
 
 Unbreakable as iron
@@ -2781,9 +2859,11 @@ Unbreakable as iron
 Unconscious as an oak-tree of its growth
 
 Under the willow-tree glimmered her face
+
 like a foam-flake drifting over the sea
 
 Unheralded, like some tornado
+
 loosed out of the brooding hills, it came to pass
 
 Unknown, like a seed in fallow ground, was the germ of a plan
@@ -2793,6 +2873,7 @@ Unmoving as a tombstone
 Untameable as flies
 
 Unutterable things pressing on my soul
+
 like a pent-up storm craving for outlet
 
 Upcast like foam of the effacing tide
@@ -2800,18 +2881,17 @@ Upcast like foam of the effacing tide
 Uplifting the soul as on dovelike wings
 
 Uplifting their stony peaks around us
+
 like the walls and turrets of a gigantic fortress
 
 Urgent as the seas
 
 Uttering wild cries like a creature in pain
 
-
-V
-
 Vague as a dream
 
 Vague thoughts that stream shapelessly through her mind
+
 like long sad vapors through the twilight sky
 
 Vanish into thin air, like ghosts at the cockcrow
@@ -2823,9 +2903,6 @@ Vanished like vapor before the sun
 Vibrations set quivering like harp strings struck by the hand of a master
 
 Vociferous praise following like a noisy wave
-
-
-W
 
 Walking somewhat unsteadily like a blind man feeling his way
 
@@ -2840,13 +2917,17 @@ Wearing their wounds like stars
 Weary wind, who wanderest like the world's rejected guest
 
 When a draft might puff them out like a guttering candle
+
       [guttering = To melt through the side of the hollow in a candle
+
        formed by a burning wick; to burn low and unsteadily; flicker]
 
 When arm in arm they both came swiftly running,
+
 like a pair of turtle-doves that could not live asunder day or night
 
 When cards, invitations, and three-corn'd notes
+
 fly about like white butterflies
 
 When she died, her breath whistled like the wind in a keyhole
@@ -2862,6 +2943,7 @@ Where the intricate wheels of trade are grinding on, like a mill
 Where the source of the waters is fine as a thread
 
 Whilst the lagging hours of the day went by
+
 like windless clouds o'er a tender sky
 
 Whistled sharply in the air like a handful of vipers
@@ -2883,6 +2965,7 @@ White clouds like daisies
 White hands she moves like swimming swans
 
 White hands through her hair,
+
 like white doves going into the shadow of a wood
 
 White like flame
@@ -2926,6 +3009,7 @@ Wits as sharp as gimlets     [gimlet = small hand tool for boring holes]
 Women with tongues like polar needles
 
 Words as fresh as spring verdure
+
                       [verdure = lush greenness of flourishing vegetation]
 
 Words as soft as rain
@@ -2946,9 +3030,6 @@ Wrinkled and scored like a dried apple
 
 Writhing with an intensity that burnt like a steady flame
 
-
-Y
-
 Yielding like melted snow
 
 Yonder flimsy crescent, bent like an archer's bow above the snowy summit
@@ -2958,6 +3039,7 @@ You are as gloomy to-night as an undertaker out of employment
 You are as hard as stone
 
 You gave me such chill embraces
+
 as the snow-covered heights receive from clouds
 
 Your blood is red like wine
@@ -2971,6 +3053,7 @@ Your eyes as blue as violets
 Your eyes they were green and gray like an April day
 
 Your frail fancies are swallowed up,
+
 like chance flowers flung upon the river's current
 
 Your hair was golden as tints of sunrise
@@ -2990,7 +3073,3 @@ Your tongue is like a scarlet snake
 Your voice had a quaver in it just like the linnet   [linnet = small finch]
 
 Youth like a summer morn
-
-
-
-

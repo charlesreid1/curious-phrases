@@ -1,10 +1,3 @@
-SECTION III
-
-FELICITOUS PHRASES
-
-
-A
-
 ability, humor, and perspicacity        [perspicacity = perceptive]
 
 abrupt, rough, and immoderate
@@ -103,9 +96,6 @@ awe, reverence, and adoration
 
 awkwardness, narrowness, and self-consciousness
 
-
-B
-
 barbarous, shapeless, and irregular
 
 beautiful, graceful, and accomplished
@@ -162,9 +152,6 @@ brutish, repulsive, and terrible
 
 busy, active, and toiling
 
-
-C
-
 calculated, logical, and dispassionate
 
 calm, earnest, and genial
@@ -178,6 +165,7 @@ careful, reasoned, and courteous
 cautious, prudent, and decisive
 
 caviling, petulance, and discontent
+
                                   [caviling = finding trivial objections]
 
 censured, slighted, and despised
@@ -277,9 +265,6 @@ culture, growth, and progress
 cunning, cruelty, and treachery
 
 curious, fantastic, and charming
-
-
-D
 
 danger, difficulty, and hardship
 
@@ -403,9 +388,6 @@ duties, labors, and anxieties
 
 dwarfed, scant, and wretched
 
-
-E
-
 eagerness, heartiness, and vehemence
 
 earnestness, zeal, and intelligence
@@ -415,6 +397,7 @@ ease, power, and self-confidence
 easy, natural, and unembarrassed
 
 effluent, radiating, and fructifying
+
                              [fructifying = Make fruitful or productive]
 
 egotistic, disdainful, and proud
@@ -464,9 +447,6 @@ experience, knowledge, and conduct
 exposure, ruin, and flight
 
 exterior, formal, and imposing
-
-
-F
 
 faded, dusty, and unread
 
@@ -549,13 +529,12 @@ full, animated, and varied
 fullness, force, and precision
 
 furious, sanguinary, and disorganizing
+
                              [sanguinary = Accompanied by bloodshed]
 
 fustian, padding, and irrelevancy
+
                              [fustian = pompous, bombastic, and ranting]
-
-
-G
 
 gaunt, desolate, and despoiled
 
@@ -619,9 +598,6 @@ growth, progress, and extension
 
 guide, philosopher, and friend
 
-
-H
-
 habits, tastes, and opinions
 
 hard, stern, and inexorable
@@ -657,9 +633,6 @@ humanity, freedom, and justice
 humble, submissive, and serviceable
 
 humor, fancy, and susceptibility
-
-
-I
 
 idle, profuse, and profligate
 
@@ -727,10 +700,8 @@ irritable, sulky, and furious
 
 issues, hopes, and interests
 
-
-J
-
 jealousy, exclusiveness, and taciturnity
+
                                  [taciturnity  = habitually untalkative]
 
 jovial, ready-witted, and broad-gaged
@@ -739,17 +710,11 @@ joyous, delightful, and gay
 
 justice, mercy, and peace
 
-
-K
-
 keen, clear, and accurate
 
 knowing, feeling, and willing
 
 knowledge, skill, and foresight
-
-
-L
 
 labors, anxieties, and trials
 
@@ -796,9 +761,6 @@ love, veneration, and gratitude
 lucid, lively, and effective
 
 luxurious, whimsical, and selfish
-
-
-M
 
 magnificent, sumptuous, and stately
 
@@ -850,9 +812,6 @@ murder, destruction, and agony
 
 mystery, vagueness, and jargon
 
-
-N
-
 narrow, precise, and formal
 
 natural, innocent, and laudable
@@ -872,9 +831,6 @@ noble, laudable, and good
 noise, clatter, and clamor
 
 null, void, and useless
-
-
-O
 
 obscure, difficult, and subtle
 
@@ -905,9 +861,6 @@ origin, character, and aim
 original, terse, and vigorous
 
 overriding, arrogant, and quarrelsome
-
-
-P
 
 pain, toil, and privation
 
@@ -1031,9 +984,6 @@ purpose, intention, and meaning
 
 puzzles, tangles, and questionings
 
-
-Q
-
 quarrels, misunderstandings, and enmities
 
 questions, disputes, and controversies
@@ -1041,9 +991,6 @@ questions, disputes, and controversies
 quicken, sharpen, and intensify
 
 quiet, unaffected, and unostentatious
-
-
-R
 
 raise, refine, and elevate
 
@@ -1117,9 +1064,6 @@ rude, sulky, and overbearing
 
 rush, roar, and shriek
 
-
-S
-
 sacredness, dignity, and loveliness
 
 sad, gloomy, and suspicious
@@ -1127,6 +1071,7 @@ sad, gloomy, and suspicious
 safe, sensible, and sane
 
 sanguine, impulsive, and irrepressible
+
                            [sanguine = cheerfully confident; optimistic]
 
 sarcasm, satire, and ridicule
@@ -1188,6 +1133,7 @@ slovenly, base, and untrue
 slow, reluctant, and unwelcome
 
 smirking, garrulous, and pretentious
+
                                   [garrulous = excessive and trivial talk]
 
 smooth, sentimental, and harmonious
@@ -1264,9 +1210,6 @@ swiftness, mobility, and penetrativeness
 
 sympathy, service, and compassion
 
-
-T
-
 talent, scholarship, and refinement
 
 tameness, monotony, and reserve
@@ -1321,9 +1264,6 @@ true, lasting, and beneficial
 
 tyranny, injustice, and extortion
 
-
-U
-
 ugly, scowling, and offensive
 
 unbending, contemptuous, and scornful
@@ -1352,9 +1292,6 @@ upright, kind-hearted, and blameless
 
 urgent, tumultuous, and incomprehensible
 
-
-V
-
 vague, impalpable, and incongruous
 
 vanities, stupidities, and falsehoods
@@ -1378,9 +1315,6 @@ vital, formidable, and dominant
 vivid, comprehensible, and striking
 
 vulgarity, ignorance, and misapprehension
-
-
-W
 
 waddling, perspiring, and breathless
 
@@ -1419,6 +1353,3 @@ worthless, broken, and defeated
 wretchedness, deformity, and malice
 
 wrinkled, careworn, and pale
-
-
-

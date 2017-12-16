@@ -1,10 +1,3 @@
-SECTION X
-
-PUBLIC SPEAKING PHRASES
-
-
-A
-
 A fact of vast moment
 
 A few words will suffice to answer
@@ -493,9 +486,6 @@ At this solemn moment
 
 Away then with the notion
 
-
-B
-
 Be assured, then
 
 Be confident, therefore
@@ -854,9 +844,6 @@ By the way, I have not mentioned
 
 By this time it will be suspected
 
-
-C
-
 Can it be supposed
 
 Can the long records of humanity teach us
@@ -892,9 +879,6 @@ Consequently, I am not discussing this matter
 Consider, I beg you, what
 
 Contemplating these marvelous changes
-
-
-D
 
 Delude not yourselves with the belief
 
@@ -946,9 +930,6 @@ Does not the nature of every man revolt
 
 Doubtless the end is sought
 
-
-E
-
 Every now and then you will find
 
 Every one has asked himself
@@ -956,9 +937,6 @@ Every one has asked himself
 Every one therefore ought to look to
 
 Every reader of history can recall
-
-
-F
 
 Far from it
 
@@ -1028,9 +1006,6 @@ From the standpoint of
 
 From this statement you will perceive
 
-
-G
-
 Generally speaking
 
 God be praised
@@ -1038,9 +1013,6 @@ God be praised
 Grant this true
 
 Granting all this
-
-
-H
 
 Had I time for all that might be said
 
@@ -1161,9 +1133,6 @@ However, I am viewing the matter
 However, I will not in any way admit
 
 However, it is to me a very refreshing thing
-
-
-I
 
 I abide by my statement
 
@@ -3866,6 +3835,7 @@ It has ever been my ambition
 It has struck me very forcibly
 
 It is a circumstance of happy augury
+
                               [augury = sign of something coming; omen]
 
 It is a common error
@@ -3957,6 +3927,7 @@ It is amazing how little
 It is an easy matter
 
 It is an egregious mistake
+
               [egregious = conspicuously and outrageously reprehensible]
 
 It is an established rule
@@ -4535,13 +4506,7 @@ It would indeed be unworthy
 
 It would seem perhaps most fitting
 
-
-J
-
 Just the reverse is true
-
-
-L
 
 Language is inadequate to voice my appreciation
 
@@ -4568,6 +4533,7 @@ Let it be remembered
 Let it not be objected
 
 Let it not be supposed that I impute
+
                        [impute = relate to a particular cause or source]
 
 Let me add another thing
@@ -4782,9 +4748,6 @@ Look at some of these questions
 
 Look at the situation
 
-
-M
-
 Mainly, I believe
 
 Making allowances for differences of opinion
@@ -4860,9 +4823,6 @@ My own private opinion is
 My present business is
 
 My regret is intensified by the thought
-
-
-N
 
 Nay, I boldly say
 
@@ -5090,9 +5050,6 @@ Now, you will allow me to state
 
 Now, you will understand from this
 
-
-O
-
 Observe again
 
 Occasionally you ought to read
@@ -5219,9 +5176,6 @@ Our thoughts wander back
 
 Over and above all this
 
-
-P
-
 Pardon me if
 
 Perhaps another reason why
@@ -5248,9 +5202,6 @@ Personally, I am far too firm a believer
 
 Pray, sir, let me say
 
-
-R
-
 Read but your history aright
 
 Recollect, sir
@@ -5264,9 +5215,6 @@ Remember, I do not seek to
 Remembering some past occurrences
 
 Returning, then, to the consideration
-
-
-S
 
 Seriously, then, do I beg you
 
@@ -5407,9 +5355,6 @@ Surely I do not misinterpret
 Surely it is a paradox
 
 Surely it is not too much for me to say
-
-
-T
 
 Take another instance
 
@@ -6069,9 +6014,6 @@ Truly it is a subject for astonishment
 
 Two things are made very clear
 
-
-U
-
 Under all the circumstances
 
 Under these favoring conditions
@@ -6086,13 +6028,7 @@ Unless I could be sure
 
 Up to this moment I have stated
 
-
-V
-
 Very strange is this indeed
-
-
-W
 
 We all agree as to
 
@@ -6468,9 +6404,6 @@ Without going into any details
 
 Without my saying a word more
 
-
-Y
-
 Yet I am convinced
 
 Yet I am willing to admit
@@ -6592,7 +6525,3 @@ Your friendly and generous words
 Your good sense must tell you
 
 Your presence seems to say
-
-
-
-

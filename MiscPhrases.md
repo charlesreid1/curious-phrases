@@ -1,10 +1,3 @@
-SECTION XI
-
-MISCELLANEOUS PHRASES
-
-
-A
-
 A bewildering labyrinth of facts
 
 A blank absence of interest or sympathy
@@ -138,6 +131,7 @@ A hopeless enigma
 A hotbed of disturbance
 
 A hushed rustle of applause testified to a widespread approbation
+
                                    [approbation = warm approval; praise]
 
 A keenly receptive and intensely sensitive temperament
@@ -155,6 +149,7 @@ A less revolutionary innovation
 A life of studious contemplation
 
 A limpidity and lucidity of style
+
                   [limpidity = transparent clearity; easily intelligible]
 
 A lingering tinge of admiration
@@ -166,6 +161,7 @@ A long accumulating store of discontent and unrest
 A long tangle of unavoidable detail
 
 A look threatening and peremptory
+
                                [peremptory = ending all debate or action]
 
 A many-sided and far-reaching enthusiasm
@@ -271,7 +267,9 @@ A rather desperate procedure
 A reckless fashion
 
 A recrudescence of superstition
+
                           [recrudescence = recurrence of a pathological
+
                            symptoms after a period of improvement]
 
 A relish for the sublime
@@ -319,6 +317,7 @@ A slowly subsiding frenzy
 A snare and a delusion
 
 A somewhat complicated and abstruse calculation
+
                                      [abstruse = difficult to understand]
 
 A sordid and detestable motive
@@ -412,6 +411,7 @@ A very formidable problem
 A vigilant reserve
 
 A violent and base calumniator
+
           [calumniator = makes malicious or knowingly false statements]
 
 A voice of matchless compass and eloquence
@@ -459,6 +459,7 @@ Advance by leaps and bounds
 Advancing to dignity and honor
 
 Adventitious aids to memory
+
                       [adventitious = Not inherent; added extrinsically]
 
 Affectation and superfluous ornament
@@ -560,6 +561,7 @@ An essentially grotesque and commonplace thing
 An eternal and imperishable example
 
 An exalted and chimerical sense of honor
+
                                         [chimerical = highly improbable]
 
 An excess of unadulterated praise
@@ -595,6 +597,7 @@ An incongruous spectacle
 An incredible mental agility
 
 An indefinable taint of priggishness
+
                                   [priggishness = exaggerated propriety]
 
 An indescribable frankness and simplicity of character
@@ -624,6 +627,7 @@ An intolerable deal of guesswork
 An involuntary gesture of remonstrance
 
 An irrelevant bit of magniloquence
+
                                 [magniloquence = extravagant in speech]
 
 An irrepressible and impassioned hopefulness
@@ -667,6 +671,7 @@ And the like
 Announced in a tone of pious satisfaction
 
 Another thought importuned him
+
                            [importuned = insistent or repeated requests]
 
 Anticipated with lively expectation
@@ -720,9 +725,6 @@ Averted by some happy stroke of fortune
 Await the sentence of impartial posterity
 
 Awaited with feverish anxiety
-
-
-B
 
 Bandied to and fro
 
@@ -793,9 +795,6 @@ By the sheer centripetal force of sympathy
 By virtue of a common understanding
 
 By way of rejoinder
-
-
-C
 
 Calculated to create disgust
 
@@ -870,12 +869,10 @@ Criticized with unsparing vigor
 Crude undigested masses of suggestion
 
 Cruel and baseless calumnies
+
                      [calumnies = maliciously false statements; slander]
 
 Cynically repudiate all obligations
-
-
-D
 
 Daily usages and modes of thinking
 
@@ -977,9 +974,6 @@ Dull and trite commonplaces
 
 Dwindled to alarmingly small dimensions
 
-
-E
-
 Easy-going to the point of lethargy
 
 Elementary principles of right and wrong
@@ -1032,9 +1026,6 @@ Extraordinarily subtle and penetrating analysis
 
 Exuberant rush of words
 
-
-F
-
 Facile and fertile literary brains
 
 Faithfully and religiously eschewed        [eschew = avoid; shun]
@@ -1072,6 +1063,7 @@ Foolish and inflexible superstition
 Fostering and preserving order
 
 Free from all controversial pettifogging
+
                    [pettifogging = quibbling over insignificant details]
 
 Freighted with the most precious cargoes
@@ -1093,9 +1085,6 @@ Full of singular freshness, insight and power
 Full of speculation and a deep restrained excitement
 
 Fumble and stumble in helpless incapacity
-
-
-G
 
 Gain the applause of future ages
 
@@ -1122,9 +1111,6 @@ Grooves of intellectual habit
 Growing sense of bewilderment and dismay
 
 Guilty and baffled antagonists
-
-
-H
 
 Habits of unintelligent routine
 
@@ -1196,9 +1182,6 @@ His work was ludicrously perfunctory
 
 Hopelessly belated in its appearance
 
-
-I
-
 I adjured him      [adjured = command or enjoin solemnly, as under oath]
 
 I am not without a lurking suspicion
@@ -1266,6 +1249,7 @@ In a position of undisputed supremacy
 In a rapture of imagined ecstasy
 
 In a secret and surreptitious way
+
                  [surreptitious = done by clandestine or stealthy means]
 
 In a spirit of friendliness and conciliation
@@ -1299,6 +1283,7 @@ In extenuation of the past
 In high good humor
 
 In his customary sententious fashion
+
                                [sententious = terse and energetic; pithy]
 
 In its most odious and intolerable shape
@@ -1390,6 +1375,7 @@ Intercourse with polished society
 Intervals of respite and repose
 
 Inveigh against established customs
+
                       [inveigh = angry disapproval; protest vehemently]
 
 Invested with a partial authority
@@ -1486,24 +1472,15 @@ It would not seem an improbable conclusion
 
 Its dominating and inspiring influence
 
-
-J
-
 Jealous and formidable foes
 
 Justifiable in certain exigencies   [exigencies = urgent situations]
-
-
-K
 
 Keen power of calculation and unhesitating audacity
 
 Kindle the flames of genuine oratory
 
 Knotty and subtle disquisitions      [disquisitions = formal discourse]
-
-
-L
 
 Labored and far-fetched elocution
 
@@ -1545,9 +1522,6 @@ Lucidity and argumentative vigor
 
 Lulled into a sense of false satisfaction
 
-
-M
-
 Maddened by a jealous hate
 
 Maintained with ingenuity and vigor
@@ -1580,9 +1554,6 @@ My worst suspicions were confirmed
 
 Mysterious and invincible darkness
 
-
-N
-
 Naked vigor of resolution
 
 Naturally prone to believe
@@ -1604,14 +1575,12 @@ Not so much polished as varnished
 Noted for their quixotic love of adventure
 
 Nothing could be more captious or unfair
+
            [captious = disposition to find and point out trivial faults]
 
 Nothing remained but a graceful acquiescence
 
 Notoriously distracted by internecine jealousies
-
-
-O
 
 Objects of general censure
 
@@ -1658,6 +1627,7 @@ Our opinions were diametrically opposed
 Our vaunted civilization
 
 Outward mark of obeisance and humiliation
+
                                      [obeisance = attitude of deference]
 
 Overcome by an access of misery
@@ -1665,9 +1635,6 @@ Overcome by an access of misery
 Overshadowed by a fretful anxiety
 
 Overwhelmed with reproach and popular indignation
-
-
-P
 
 Painful and lamentable indifference
 
@@ -1706,6 +1673,7 @@ Pitiful shifts of policy
 Plainly dictated by a lofty purpose
 
 Pleading the exigencies of strategical interest
+
                                          [exigencies = urgent situations]
 
 Plunged into tumultuous preoccupation
@@ -1739,14 +1707,12 @@ Proud schemes for aggrandizement
 Provocative of bitter hostility
 
 Pruned of their excrescences and grotesque extremes
+
                         [excrescences = abnormal growth, such as a wart]
 
 Purged of glaringly offensive features
 
 Pursued to a vicious extent
-
-
-Q
 
 Questioned and tested in the crucible of experience
 
@@ -1757,9 +1723,6 @@ Quickness to conceive and courage to execute
 Quite destitute of resources
 
 Quixotically generous about money
-
-
-R
 
 Radiantly and transparently happy
 
@@ -1804,9 +1767,6 @@ Rooted in immeasurable error and falsity
 Roused to tumultuous activity
 
 Rude and blind criticism
-
-
-S
 
 Sadly counterbalanced by numerous faults
 
@@ -1927,6 +1887,7 @@ Struck incessantly and remorselessly
 Stupendous and awe-inspiring spectacle
 
 Subject to the vicissitudes of fortune
+
                            [vicissitudes = sudden or unexpected changes]
 
 Subjected to the grossest cruelties
@@ -1958,14 +1919,12 @@ Supremely and undeniably great
 Susceptible to every impulse and stimulus
 
 Sustained dignity and mellifluous precision
+
                    [mellifluous = flowing with honey; smooth and sweet]
 
 Swamping every aspiration and ambition
 
 Swift and vehement outbursts of feeling
-
-
-T
 
 Take root in the heart
 
@@ -1992,6 +1951,7 @@ The animadversions of critics        [animadversions = Strong criticism]
 The applause was unbounded
 
 The best proof of its timeliness and salutariness
+
                                               [salutariness = favorable]
 
 The bewildered and tumultuous world
@@ -2183,6 +2143,7 @@ The mere reversal of the wheel of fortune
 The merest smattering of knowledge
 
 The meticulous preciosity of the lawyer and the logician
+
                                   [preciosity = extreme overrefinement]
 
 The most absurd elementary questions
@@ -2274,6 +2235,7 @@ The supernatural prescience of prophecy
 The sweet indulgence of good-nature
 
 The sycophants of the rich
+
   [sycophant = servile self-seeker attempting to win favor by flattery]
 
 The taint of fretful ingratitude
@@ -2319,6 +2281,7 @@ The victorious assertion of personality
 The virtue of taciturnity     [taciturnity  = habitually untalkative]
 
 The voice was sharp and peremptory
+
                               [peremptory = ending all debate or action]
 
 The want of serious and sustained thinking
@@ -2391,9 +2354,6 @@ Tremendous exploits and thrilling escapades
 
 True incentives to knowledge
 
-
-U
-
 Unamiable and envious attributes
 
 Unbounded devotion and indulgence
@@ -2407,6 +2367,7 @@ Under all conceivable circumstances
 Under the sway of arbitrary opinions
 
 Undertaken under propitious circumstances
+
                             [propitious = auspicious, favorable; kindly]
 
 Uneasy sense of impending change
@@ -2422,6 +2383,7 @@ Unfailing and miraculous foresight
 Unfeigned astonishment and indignation
 
 Unfounded and incredible calumnies
+
                                [calumnies = maliciously false statements]
 
 Unhampered by binding alliances
@@ -2435,6 +2397,7 @@ Unreasoning and unquestioning attachment
 Unrivaled beauty and excellence
 
 Unrivaled gift of succinct and trenchant speech
+
         [trenchant = forceful, effective, vigorous; incisive; distinct]
 
 Unsparing industry and attention
@@ -2450,6 +2413,7 @@ Untiring enunciation of platitudes and fallacies
 Unutterably trivial and paltry
 
 Unwavering and unquestioning approbation
+
                                     [approbation = warm approval; praise]
 
 Unworthy and ungenerous treatment
@@ -2459,9 +2423,6 @@ Upbraid ourselves with folly
 Urgent warning and admonition
 
 Utterly and essentially irreverent
-
-
-V
 
 Vast and vague aspirations
 
@@ -2474,6 +2435,7 @@ Venerable and dignified conservatism
 Versatile and essentially original
 
 Versed in the arts of exciting tumult and sedition
+
                                   [sedition =  insurrection; rebellion]
 
 Viewed in its general tenor and substance
@@ -2483,9 +2445,11 @@ Vigorous and well compacted
 Violating all decency
 
 Violent and unforeseen vicissitudes
+
                           [vicissitudes = sudden or unexpected changes]
 
 Vitiated by intolerance and shortsightedness
+
                  [vitiated = reduce the value; corrupt morally; debase]
 
 Vivid even to oppressiveness
@@ -2493,9 +2457,6 @@ Vivid even to oppressiveness
 Voracious and insatiable appetite
 
 Vulgar eagerness for place
-
-
-W
 
 Warnings too pregnant to be disregarded
 
@@ -2527,13 +2488,6 @@ Withal decidedly handsome
 
 Written in indelible characters upon his heart
 
-
-Y
-
 Yield to urgent representations
 
-
-Z
-
 Zealous in the cause he affected to serve
-
